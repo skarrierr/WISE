@@ -1,5 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ValidationCache Version="1" SchemaVersion="103">
+	<ValidationCacheItem File="C:\Users\DAVIDREYESRODRIGUEZ\WISE\WiseAdventure\WiseAdventure.wproj" DateLow="1653391898" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\DAVIDREYESRODRIGUEZ\WISE\WiseAdventure\WiseAdventure.DAVIDREYESRODRIGUEZ.wsettings" DateLow="1653392739" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\DAVIDREYESRODRIGUEZ\WISE\WiseAdventure\Virtual Acoustics\Factory Acoustic Textures.wwu" DateLow="1626704326" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\DAVIDREYESRODRIGUEZ\WISE\WiseAdventure\Virtual Acoustics\Default Work Unit.wwu" DateLow="1653391898" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\DAVIDREYESRODRIGUEZ\WISE\WiseAdventure\Triggers\Default Work Unit.wwu" DateLow="1653391898" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\DAVIDREYESRODRIGUEZ\WISE\WiseAdventure\Switches\Default Work Unit.wwu" DateLow="1653391899" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\DAVIDREYESRODRIGUEZ\WISE\WiseAdventure\States\Default Work Unit.wwu" DateLow="1653391898" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\DAVIDREYESRODRIGUEZ\WISE\WiseAdventure\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1653391898" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\DAVIDREYESRODRIGUEZ\WISE\WiseAdventure\SoundBanks\Default Work Unit.wwu" DateLow="1653391898" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\DAVIDREYESRODRIGUEZ\WISE\WiseAdventure\Queries\Factory Queries.wwu" DateLow="1626704326" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\DAVIDREYESRODRIGUEZ\WISE\WiseAdventure\Queries\Default Work Unit.wwu" DateLow="1653391898" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\DAVIDREYESRODRIGUEZ\WISE\WiseAdventure\Presets\Factory Spatial Audio.wwu" DateLow="1626704326" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\DAVIDREYESRODRIGUEZ\WISE\WiseAdventure\Presets\Factory Reflect.wwu" DateLow="1626704580" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\DAVIDREYESRODRIGUEZ\WISE\WiseAdventure\Presets\Default Work Unit.wwu" DateLow="1653391898" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\DAVIDREYESRODRIGUEZ\WISE\WiseAdventure\Modulators\Default Work Unit.wwu" DateLow="1653391898" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\DAVIDREYESRODRIGUEZ\WISE\WiseAdventure\Mixing Sessions\Default Work Unit.wwu" DateLow="1653391898" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\DAVIDREYESRODRIGUEZ\WISE\WiseAdventure\Metadata\Default Work Unit.wwu" DateLow="1653391898" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\DAVIDREYESRODRIGUEZ\WISE\WiseAdventure\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1653392403" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\DAVIDREYESRODRIGUEZ\WISE\WiseAdventure\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1653392739" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\DAVIDREYESRODRIGUEZ\WISE\WiseAdventure\Game Parameters\Factory SoundSeed Air Game Syncs.wwu" DateLow="1626704601" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\DAVIDREYESRODRIGUEZ\WISE\WiseAdventure\Game Parameters\Factory Motion.wwu" DateLow="1626704517" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\DAVIDREYESRODRIGUEZ\WISE\WiseAdventure\Game Parameters\Default Work Unit.wwu" DateLow="1653391899" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\DAVIDREYESRODRIGUEZ\WISE\WiseAdventure\Events\Default Work Unit.wwu" DateLow="1653391899" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\DAVIDREYESRODRIGUEZ\WISE\WiseAdventure\Effects\Factory Reflect.wwu" DateLow="1626704580" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\DAVIDREYESRODRIGUEZ\WISE\WiseAdventure\Effects\Factory McDSP Effects.wwu" DateLow="1626704674" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\DAVIDREYESRODRIGUEZ\WISE\WiseAdventure\Effects\Factory Mastering Suite.wwu" DateLow="1626704510" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\DAVIDREYESRODRIGUEZ\WISE\WiseAdventure\Effects\Factory iZotope Singleband Distortion.wwu" DateLow="1626704663" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\DAVIDREYESRODRIGUEZ\WISE\WiseAdventure\Effects\Factory iZotope Multiband Distortion.wwu" DateLow="1626704663" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\DAVIDREYESRODRIGUEZ\WISE\WiseAdventure\Effects\Factory iZotope Hybrid Reverb Effects.wwu" DateLow="1626704663" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\DAVIDREYESRODRIGUEZ\WISE\WiseAdventure\Effects\Factory iZotope Filters.wwu" DateLow="1626704663" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\DAVIDREYESRODRIGUEZ\WISE\WiseAdventure\Effects\Factory iZotope Dynamics.wwu" DateLow="1626704663" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\DAVIDREYESRODRIGUEZ\WISE\WiseAdventure\Effects\Factory iZotope Delay.wwu" DateLow="1626704663" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\DAVIDREYESRODRIGUEZ\WISE\WiseAdventure\Effects\Factory iZotope Box Modeler.wwu" DateLow="1653392403" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\DAVIDREYESRODRIGUEZ\WISE\WiseAdventure\Effects\Factory Effects.wwu" DateLow="1626704326" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\DAVIDREYESRODRIGUEZ\WISE\WiseAdventure\Effects\Factory Auro Headphone.wwu" DateLow="1626704617" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\DAVIDREYESRODRIGUEZ\WISE\WiseAdventure\Effects\Default Work Unit.wwu" DateLow="1653391899" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\DAVIDREYESRODRIGUEZ\WISE\WiseAdventure\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1653391898" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\DAVIDREYESRODRIGUEZ\WISE\WiseAdventure\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1626704326" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\DAVIDREYESRODRIGUEZ\WISE\WiseAdventure\Conversion Settings\Default Work Unit.wwu" DateLow="1653391898" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\DAVIDREYESRODRIGUEZ\WISE\WiseAdventure\Control Surface Sessions\Default Work Unit.wwu" DateLow="1653391898" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\DAVIDREYESRODRIGUEZ\WISE\WiseAdventure\Audio Devices\Default Work Unit.wwu" DateLow="1653392403" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\DAVIDREYESRODRIGUEZ\WISE\WiseAdventure\Attenuations\Default Work Unit.wwu" DateLow="1653391898" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\DAVIDREYESRODRIGUEZ\WISE\WiseAdventure\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1653392739" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\DAVIDREYESRODRIGUEZ\Desktop\WiseAdventure\WiseAdventure.wproj" DateLow="1653391898" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\DAVIDREYESRODRIGUEZ\Desktop\WiseAdventure\Virtual Acoustics\Factory Acoustic Textures.wwu" DateLow="1626704326" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\DAVIDREYESRODRIGUEZ\Desktop\WiseAdventure\Virtual Acoustics\Default Work Unit.wwu" DateLow="1653391898" DateHigh="0"/>
