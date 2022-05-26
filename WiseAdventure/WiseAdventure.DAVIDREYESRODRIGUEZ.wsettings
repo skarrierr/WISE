@@ -4,12 +4,19 @@
 		<UserProjectSettings Name="" ID="{468FE644-6A81-4E85-9C6D-5AB974229F1C}">
 			<PropertyList>
 				<Property Name="Event Action List\{1391D720-3CE1-4C8E-9884-9BE292FDB6D7}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{18790FD3-DB55-40A6-BDFD-2A1B8C7BAD60}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{203CA176-D03A-4763-9530-2DB9C528B9CE}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{3907F0B0-D980-44BC-8658-A2F3C4AB0C3C}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{57F89E1D-A884-4DAE-8E50-61770B4139AF}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{6550BD5F-8945-4B69-A6F0-19B0BF63E163}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{7A1A8A91-5CFA-487D-B14F-0B787D01A5ED}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{847A3F5B-AA82-48E7-A71A-45D988EF0F37}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{D94A46F3-8695-4157-8B31-2DA9BF0847C9}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{D96F279D-095B-4587-AA09-FFC86D924FE5}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{E430F8DB-B2E9-49D2-828B-3C365A35BB10}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{E7614476-BD73-46B1-AD6C-2371433BC910}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{EE4F24DC-4B72-495A-B678-4781B02C32BA}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{EE709AB8-1B3A-4037-B6F0-CB58DB07037F}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{F3A141E8-178A-4849-A3C4-6EBB00AAC5E6}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{F49EF24B-E9FA-422F-A429-087EF059B0AB}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="EventView\FilterMode1" Type="int32" Value="2"/>

@@ -5,7 +5,14 @@
 			<ChildrenList>
 				<SoundBank Name="General" ID="{DDDC8EF4-834F-4D6B-BF62-6A55E80FD3C5}">
 					<ObjectInclusionList>
+						<ObjectRef Name="UI_Button_Exit" ID="{EE709AB8-1B3A-4037-B6F0-CB58DB07037F}" WorkUnitID="{FE0EE9F8-0FC4-49D9-9939-F3BBFD69173C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="UI_Button_Enter" ID="{18790FD3-DB55-40A6-BDFD-2A1B8C7BAD60}" WorkUnitID="{FE0EE9F8-0FC4-49D9-9939-F3BBFD69173C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="UI_Menu_Pause" ID="{D94A46F3-8695-4157-8B31-2DA9BF0847C9}" WorkUnitID="{FE0EE9F8-0FC4-49D9-9939-F3BBFD69173C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="UI_Menu_Select" ID="{3907F0B0-D980-44BC-8658-A2F3C4AB0C3C}" WorkUnitID="{FE0EE9F8-0FC4-49D9-9939-F3BBFD69173C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="UI_Menu_Teleport" ID="{D96F279D-095B-4587-AA09-FFC86D924FE5}" WorkUnitID="{FE0EE9F8-0FC4-49D9-9939-F3BBFD69173C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="UI_Button_Up" ID="{7A1A8A91-5CFA-487D-B14F-0B787D01A5ED}" WorkUnitID="{FE0EE9F8-0FC4-49D9-9939-F3BBFD69173C}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="UI_Button_Down" ID="{847A3F5B-AA82-48E7-A71A-45D988EF0F37}" WorkUnitID="{FE0EE9F8-0FC4-49D9-9939-F3BBFD69173C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="UI_Menu_Resume" ID="{E430F8DB-B2E9-49D2-828B-3C365A35BB10}" WorkUnitID="{FE0EE9F8-0FC4-49D9-9939-F3BBFD69173C}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Destruction_Container" ID="{6550BD5F-8945-4B69-A6F0-19B0BF63E163}" WorkUnitID="{FE0EE9F8-0FC4-49D9-9939-F3BBFD69173C}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Pickup_Coins" ID="{1391D720-3CE1-4C8E-9884-9BE292FDB6D7}" WorkUnitID="{FE0EE9F8-0FC4-49D9-9939-F3BBFD69173C}" Origin="Manual" Filter="7"/>
 					</ObjectInclusionList>
