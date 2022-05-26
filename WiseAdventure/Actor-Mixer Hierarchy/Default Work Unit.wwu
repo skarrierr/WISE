@@ -3,32 +3,6 @@
 	<AudioObjects>
 		<WorkUnit Name="Default Work Unit" ID="{8133DBBE-5DA6-4DFA-8E36-03238CAFA744}" PersistMode="Standalone">
 			<ChildrenList>
-				<Sound Name="BAS_amb_village_day_background_loop_01" ID="{E9D74307-549E-43E2-872E-93C1003C2CC5}" ShortID="362618704">
-					<PropertyList>
-						<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
-					</PropertyList>
-					<ReferenceList>
-						<Reference Name="Conversion">
-							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{1B915B04-2577-4A7C-B176-C6B11659C10A}"/>
-						</Reference>
-						<Reference Name="OutputBus">
-							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{7410CEEB-16EA-44C7-98BC-AF0C3F24B8E2}"/>
-						</Reference>
-					</ReferenceList>
-					<ChildrenList>
-						<AudioFileSource Name="BAS_amb_village_day_background_loop_01" ID="{0FC8A144-64BC-40CD-876A-54BA74AED4D9}">
-							<Language>SFX</Language>
-							<AudioFile>BAS_amb_village_day_background_loop_01.wav</AudioFile>
-							<MediaIDList>
-								<MediaID ID="22517764"/>
-							</MediaIDList>
-						</AudioFileSource>
-					</ChildrenList>
-					<ObjectLists/>
-					<ActiveSourceList>
-						<ActiveSource Name="BAS_amb_village_day_background_loop_01" ID="{0FC8A144-64BC-40CD-876A-54BA74AED4D9}" Platform="Linked"/>
-					</ActiveSourceList>
-				</Sound>
 				<Folder Name="Destruction" ID="{560028AC-955D-4558-B342-DE1F2C453F24}" ShortID="515646844">
 					<ChildrenList>
 						<Folder Name="Volcanic Boulder" ID="{CE4ECF82-99F9-420C-A5BD-A6F8D435C140}" ShortID="588734260">
