@@ -192,6 +192,32 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="UI_QuestRoll_Show" ID="{2668E7E8-B8F0-4CD0-A88A-14C81C2B6D50}"/>
+				<Event Name="UI_QuestRoll_Open" ID="{F52CEB91-B5A6-489D-B217-A44BE58C135F}">
+					<ChildrenList>
+						<Action Name="" ID="{73DCF609-3143-4F20-A2A7-3A2EDD11C3CF}" ShortID="500071767">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="BAS_QuestRoll_Open" ID="{E714AB03-14CE-47B1-AC67-6902027CBAEE}" WorkUnitID="{8133DBBE-5DA6-4DFA-8E36-03238CAFA744}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="UI_QuestRoll_Hide" ID="{08045D40-9EB1-47CE-818A-1D8CE103206C}"/>
+				<Event Name="UI_QuestRoll_Close" ID="{49266999-A6B0-48C1-8FDD-C244B63023C7}">
+					<ChildrenList>
+						<Action Name="" ID="{ACAC6083-BED6-47B2-BC68-F34132EFB52F}" ShortID="165988514">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="BAS_QuestRoll_Close" ID="{56213121-F6F3-4930-B33E-658CCD9EC2C9}" WorkUnitID="{8133DBBE-5DA6-4DFA-8E36-03238CAFA744}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Quest_Complete" ID="{A9441E81-1272-4AF0-BA95-6F704D99C70E}"/>
+				<Event Name="Quest_CompleteCollection" ID="{936567DC-1CA0-4E40-927C-3A007FD61C4D}"/>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>
