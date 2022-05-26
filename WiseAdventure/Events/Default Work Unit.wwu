@@ -14,6 +14,17 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Destruction_Crystal_Destroy" ID="{E7614476-BD73-46B1-AD6C-2371433BC910}">
+					<ChildrenList>
+						<Action Name="" ID="{8BADF9A9-48E4-43DA-B98A-6D77DECBCCC6}" ShortID="785547794">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="BAS_Crystals_Destroy" ID="{AA4268EA-A63C-406C-9879-8FA00AF48130}" WorkUnitID="{8133DBBE-5DA6-4DFA-8E36-03238CAFA744}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

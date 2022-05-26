@@ -15,6 +15,33 @@
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>
 				</SoundBank>
+				<SoundBank Name="Dungeon" ID="{E542AAAD-776A-490C-B80D-C1862CCD0803}">
+					<ObjectInclusionList/>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="PineForest" ID="{D6310862-9B5B-41D6-A247-A16776F2E47E}">
+					<ObjectInclusionList/>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="Woodlands" ID="{9E5B41AA-A907-417F-91F7-6B3E8AC10E93}">
+					<ObjectInclusionList/>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="Cave" ID="{B25245FA-D6D2-43C8-8816-399F6F2BF496}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Destruction_Crystal_Destroy" ID="{E7614476-BD73-46B1-AD6C-2371433BC910}" WorkUnitID="{FE0EE9F8-0FC4-49D9-9939-F3BBFD69173C}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="Desert" ID="{F2AD9B12-7A90-477C-91F2-9B3246EB5A2E}">
+					<ObjectInclusionList/>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
 			</ChildrenList>
 		</WorkUnit>
 	</SoundBanks>
