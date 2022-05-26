@@ -81,6 +81,7 @@
 						</Sound>
 						<Sound Name="BAS_amb_village_night_background_loop_01" ID="{5B3D6B10-555B-4153-85DD-236452D44366}" ShortID="61249812">
 							<PropertyList>
+								<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
 								<Property Name="Volume" Type="Real64">
 									<RTPCList>
 										<RTPC Name="" ID="{2C297004-FEAA-49EA-9D1B-0F294EE0C00F}" ShortID="807948145">
@@ -154,6 +155,7 @@
 						</Sound>
 						<Sound Name="BAS_amb_forest_day_background_loop_01" ID="{F1C7D824-F464-4410-8316-B352C0C0C6C2}" ShortID="109555965">
 							<PropertyList>
+								<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
 								<Property Name="Volume" Type="Real64">
 									<RTPCList>
 										<RTPC Name="" ID="{7604C8C9-CB5C-4CBC-BCD2-9D0D4C664C0D}" ShortID="277826983">
@@ -227,6 +229,7 @@
 						</Sound>
 						<Sound Name="amb_forest_night_background_loop_02" ID="{6DC07155-8476-4AF2-AA09-C14C06CC9D92}" ShortID="369496557">
 							<PropertyList>
+								<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
 								<Property Name="Volume" Type="Real64">
 									<RTPCList>
 										<RTPC Name="" ID="{D5E5AE68-EC4C-48D4-8997-0D97BF230D36}" ShortID="1008862383">

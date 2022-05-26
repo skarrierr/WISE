@@ -30,8 +30,7 @@
 				</SoundBank>
 				<SoundBank Name="Village" ID="{EDC7A38B-72AA-4262-9379-3AB9EA0DB1ED}">
 					<ObjectInclusionList>
-						<ObjectRef Name="Ambient_Region_Village" ID="{203CA176-D03A-4763-9530-2DB9C528B9CE}" WorkUnitID="{FE0EE9F8-0FC4-49D9-9939-F3BBFD69173C}" Origin="Manual" Filter="7"/>
-						<ObjectRef Name="Ambient_River" ID="{EE4F24DC-4B72-495A-B678-4781B02C32BA}" WorkUnitID="{FE0EE9F8-0FC4-49D9-9939-F3BBFD69173C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Ambient_Region_Village" ID="{8D91515B-E020-4CBE-8E32-A9FB644B9C6D}" WorkUnitID="{0BB68BEB-D5F0-4AED-9761-1EFF9F00DA38}" Origin="Manual" Filter="7"/>
 					</ObjectInclusionList>
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>

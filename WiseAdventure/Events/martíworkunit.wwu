@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{0BB68BEB-D5F0-4AED-9761-1EFF9F00DA38}" SchemaVersion="103">
 	<Events>
-		<WorkUnit Name="martíworkunit" ID="{0BB68BEB-D5F0-4AED-9761-1EFF9F00DA38}" PersistMode="Standalone"/>
+		<WorkUnit Name="martíworkunit" ID="{0BB68BEB-D5F0-4AED-9761-1EFF9F00DA38}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Ambient_Region_Village" ID="{8D91515B-E020-4CBE-8E32-A9FB644B9C6D}">
+					<ChildrenList>
+						<Action Name="" ID="{FEF7E570-1EDA-4589-BAF9-CDE182D5620E}" ShortID="776299983">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="BAS_amb_village_day_background_loop_01" ID="{E9D74307-549E-43E2-872E-93C1003C2CC5}" WorkUnitID="{6F8344DB-BEC6-4729-B8EF-8BDD100BFA6E}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{F501D56A-89C5-4AC9-AD76-675E52CB257E}" ShortID="158043116">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="BAS_amb_village_night_background_loop_01" ID="{5B3D6B10-555B-4153-85DD-236452D44366}" WorkUnitID="{6F8344DB-BEC6-4729-B8EF-8BDD100BFA6E}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
 	</Events>
 </WwiseDocument>
