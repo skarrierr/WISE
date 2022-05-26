@@ -25,6 +25,40 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Player_WeaponSwing" ID="{F49EF24B-E9FA-422F-A429-087EF059B0AB}"/>
+				<Event Name="UI_Button_Down" ID="{847A3F5B-AA82-48E7-A71A-45D988EF0F37}">
+					<ChildrenList>
+						<Action Name="" ID="{DEC8141F-7C25-4D7E-B218-D83DD7D2D4CF}" ShortID="1052011712">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="BAS_Inventory_Select" ID="{7DD50B29-637F-43AD-BC70-BDA2F99B8C89}" WorkUnitID="{8133DBBE-5DA6-4DFA-8E36-03238CAFA744}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Pickup_Coins" ID="{1391D720-3CE1-4C8E-9884-9BE292FDB6D7}">
+					<ChildrenList>
+						<Action Name="" ID="{88BF7FB2-0027-4966-BE77-F2D1B6042D0C}" ShortID="779783086">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="BAS_Pickup_Coin_01" ID="{2B1AEBB2-C52F-457F-8E2F-4DCBB61E1285}" WorkUnitID="{8133DBBE-5DA6-4DFA-8E36-03238CAFA744}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Destruction_Rock_Destroy" ID="{F3A141E8-178A-4849-A3C4-6EBB00AAC5E6}">
+					<ChildrenList>
+						<Action Name="" ID="{F6F998F4-9A61-45C9-B028-469646A6887F}" ShortID="843830717">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="BAS_Destroy_Rock_01" ID="{102C9D68-842F-41A6-AAC2-3A24848A3491}" WorkUnitID="{8133DBBE-5DA6-4DFA-8E36-03238CAFA744}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>
