@@ -6,6 +6,7 @@
 				<SoundBank Name="General" ID="{DDDC8EF4-834F-4D6B-BF62-6A55E80FD3C5}">
 					<ObjectInclusionList>
 						<ObjectRef Name="UI_Button_Down" ID="{847A3F5B-AA82-48E7-A71A-45D988EF0F37}" WorkUnitID="{FE0EE9F8-0FC4-49D9-9939-F3BBFD69173C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Destruction_Container" ID="{6550BD5F-8945-4B69-A6F0-19B0BF63E163}" WorkUnitID="{FE0EE9F8-0FC4-49D9-9939-F3BBFD69173C}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Pickup_Coins" ID="{1391D720-3CE1-4C8E-9884-9BE292FDB6D7}" WorkUnitID="{FE0EE9F8-0FC4-49D9-9939-F3BBFD69173C}" Origin="Manual" Filter="7"/>
 					</ObjectInclusionList>
 					<ObjectExclusionList/>
@@ -14,6 +15,7 @@
 				<SoundBank Name="Village" ID="{EDC7A38B-72AA-4262-9379-3AB9EA0DB1ED}">
 					<ObjectInclusionList>
 						<ObjectRef Name="Ambient_Region_Village" ID="{203CA176-D03A-4763-9530-2DB9C528B9CE}" WorkUnitID="{FE0EE9F8-0FC4-49D9-9939-F3BBFD69173C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Ambient_River" ID="{EE4F24DC-4B72-495A-B678-4781B02C32BA}" WorkUnitID="{FE0EE9F8-0FC4-49D9-9939-F3BBFD69173C}" Origin="Manual" Filter="7"/>
 					</ObjectInclusionList>
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>
@@ -43,7 +45,9 @@
 					<GameSyncExclusionList/>
 				</SoundBank>
 				<SoundBank Name="Desert" ID="{F2AD9B12-7A90-477C-91F2-9B3246EB5A2E}">
-					<ObjectInclusionList/>
+					<ObjectInclusionList>
+						<ObjectRef Name="Destruction_VolcanicBoulder_Impact" ID="{57F89E1D-A884-4DAE-8E50-61770B4139AF}" WorkUnitID="{FE0EE9F8-0FC4-49D9-9939-F3BBFD69173C}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>
 				</SoundBank>

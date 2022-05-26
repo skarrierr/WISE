@@ -59,6 +59,29 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Ambient_River" ID="{EE4F24DC-4B72-495A-B678-4781B02C32BA}"/>
+				<Event Name="Destruction_Container" ID="{6550BD5F-8945-4B69-A6F0-19B0BF63E163}">
+					<ChildrenList>
+						<Action Name="" ID="{D6A52A6B-837E-45A2-9A90-2BCDE78185D3}" ShortID="1071664922">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="BAS_Destroy_Wood_01" ID="{FFF01AA0-B3C3-49F7-BAD4-0AB33E7A2FFA}" WorkUnitID="{8133DBBE-5DA6-4DFA-8E36-03238CAFA744}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Destruction_VolcanicBoulder_Impact" ID="{57F89E1D-A884-4DAE-8E50-61770B4139AF}">
+					<ChildrenList>
+						<Action Name="" ID="{9853B154-D870-4CAF-A498-87EE5B0560DF}" ShortID="336117433">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Explosion" ID="{2A7FDBB9-FEF3-4961-868F-2DE0D2E28B3F}" WorkUnitID="{8133DBBE-5DA6-4DFA-8E36-03238CAFA744}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>
