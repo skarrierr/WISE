@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	448719855	Destruction_Crystal_Destroy			\Default Work Unit\Destruction_Crystal_Destroy	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	418996869	BAS_Crystals_Destroy	C:\Repositorios\WwiseProject\WISE\WiseAdventure\.cache\Windows\SFX\Destruction\BAS_Crystals_Destroy_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Destruction\BAS_Crystals_Destroy		191776
+

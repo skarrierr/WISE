@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="140">
+	<RootPaths>
+		<ProjectRoot>C:\Repositorios\WwiseProject\WISE\WiseAdventure\</ProjectRoot>
+		<SourceFilesRoot>C:\Repositorios\WwiseProject\WISE\WiseAdventure\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Repositorios\WwiseProject\WISE\WiseAdventure\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Repositorios\WwiseProject\WISE\WiseAdventure\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="133642231" Language="SFX" Hash="3205634652">
+			<ObjectPath>\SoundBanks\Default Work Unit\General</ObjectPath>
+			<ShortName>General</ShortName>
+			<Path>General.bnk</Path>
+			<IncludedEvents>
+				<Event Id="4254124015" Name="Destruction_Container" ObjectPath="\Events\Default Work Unit\Destruction_Container">
+					<IncludedMemoryFiles>
+						<File Id="892796519" Language="SFX">
+							<ShortName>Destruction\BAS_Destroy_Wood_01.wav</ShortName>
+							<Path>SFX\Destruction\BAS_Destroy_Wood_01_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1499896846" Name="Pickup_Coins" ObjectPath="\Events\Default Work Unit\Pickup_Coins">
+					<IncludedMemoryFiles>
+						<File Id="486380429" Language="SFX">
+							<ShortName>Pickups\Items\BAS_Pickup_Coin_01.wav</ShortName>
+							<Path>SFX\Pickups\Items\BAS_Pickup_Coin_01_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3240473869" Name="Quest_Complete" ObjectPath="\Events\Default Work Unit\Quest_Complete"/>
+				<Event Id="844130829" Name="Quest_CompleteCollection" ObjectPath="\Events\Default Work Unit\Quest_CompleteCollection"/>
+				<Event Id="156563189" Name="UI_Button_Down" ObjectPath="\Events\Default Work Unit\UI_Button_Down">
+					<IncludedMemoryFiles>
+						<File Id="547618223" Language="SFX">
+							<ShortName>UI\BAS_Button_Over.wav</ShortName>
+							<Path>SFX\UI\BAS_Button_Over_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="18309885" Name="UI_Button_Enter" ObjectPath="\Events\Default Work Unit\UI_Button_Enter">
+					<IncludedMemoryFiles>
+						<File Id="894262809" Language="SFX">
+							<ShortName>UI\BAS_Button_Enter.wav</ShortName>
+							<Path>SFX\UI\BAS_Button_Enter_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2325560497" Name="UI_Button_Exit" ObjectPath="\Events\Default Work Unit\UI_Button_Exit">
+					<IncludedMemoryFiles>
+						<File Id="230350452" Language="SFX">
+							<ShortName>UI\BAS_Button_Close.wav</ShortName>
+							<Path>SFX\UI\BAS_Button_Close_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="15662850" Name="UI_Button_Up" ObjectPath="\Events\Default Work Unit\UI_Button_Up">
+					<IncludedMemoryFiles>
+						<File Id="547618223" Language="SFX">
+							<ShortName>UI\BAS_Button_Over.wav</ShortName>
+							<Path>SFX\UI\BAS_Button_Over_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2278290679" Name="UI_Inventory_Close" ObjectPath="\Events\Default Work Unit\UI_Inventory_Close">
+					<IncludedMemoryFiles>
+						<File Id="607243692" Language="SFX">
+							<ShortName>UI\BAS_Inventory_Close.wav</ShortName>
+							<Path>SFX\UI\BAS_Inventory_Close_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2199611969" Name="UI_Inventory_Open" ObjectPath="\Events\Default Work Unit\UI_Inventory_Open">
+					<IncludedMemoryFiles>
+						<File Id="809291065" Language="SFX">
+							<ShortName>UI\BAS_Inventory_Open.wav</ShortName>
+							<Path>SFX\UI\BAS_Inventory_Open_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3749307760" Name="UI_Inventory_Roll" ObjectPath="\Events\Default Work Unit\UI_Inventory_Roll">
+					<IncludedMemoryFiles>
+						<File Id="827302825" Language="SFX">
+							<ShortName>UI\BAS_Inventory_Scroll.wav</ShortName>
+							<Path>SFX\UI\BAS_Inventory_Scroll_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3237189652" Name="UI_Menu_Pause" ObjectPath="\Events\Default Work Unit\UI_Menu_Pause">
+					<IncludedMemoryFiles>
+						<File Id="19902131" Language="SFX">
+							<ShortName>UI\BAS_Button_Open.wav</ShortName>
+							<Path>SFX\UI\BAS_Button_Open_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1464993479" Name="UI_Menu_Resume" ObjectPath="\Events\Default Work Unit\UI_Menu_Resume">
+					<IncludedMemoryFiles>
+						<File Id="230350452" Language="SFX">
+							<ShortName>UI\BAS_Button_Close.wav</ShortName>
+							<Path>SFX\UI\BAS_Button_Close_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3474566310" Name="UI_Menu_Select" ObjectPath="\Events\Default Work Unit\UI_Menu_Select">
+					<IncludedMemoryFiles>
+						<File Id="368071073" Language="SFX">
+							<ShortName>UI\BAS_Inventory_Select.wav</ShortName>
+							<Path>SFX\UI\BAS_Inventory_Select_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="750089663" Name="UI_Menu_Teleport" ObjectPath="\Events\Default Work Unit\UI_Menu_Teleport">
+					<IncludedMemoryFiles>
+						<File Id="286525904" Language="SFX">
+							<ShortName>UI\BAS_Button_Teleport.wav</ShortName>
+							<Path>SFX\UI\BAS_Button_Teleport_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="808893336" Name="UI_QuestRoll_Close" ObjectPath="\Events\Default Work Unit\UI_QuestRoll_Close">
+					<IncludedMemoryFiles>
+						<File Id="175081527" Language="SFX">
+							<ShortName>UI\BAS_QuestRoll_Close.wav</ShortName>
+							<Path>SFX\UI\BAS_QuestRoll_Close_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2792117052" Name="UI_QuestRoll_Hide" ObjectPath="\Events\Default Work Unit\UI_QuestRoll_Hide"/>
+				<Event Id="949395292" Name="UI_QuestRoll_Open" ObjectPath="\Events\Default Work Unit\UI_QuestRoll_Open">
+					<IncludedMemoryFiles>
+						<File Id="386092330" Language="SFX">
+							<ShortName>UI\BAS_QuestRoll_Open.wav</ShortName>
+							<Path>SFX\UI\BAS_QuestRoll_Open_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3699139167" Name="UI_QuestRoll_Show" ObjectPath="\Events\Default Work Unit\UI_QuestRoll_Show"/>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="608898761" Language="SFX" Hash="3965262392">
+			<ObjectPath>\SoundBanks\Default Work Unit\Dungeon</ObjectPath>
+			<ShortName>Dungeon</ShortName>
+			<Path>Dungeon.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1999886838" Name="Destruction_Rock_Destroy" ObjectPath="\Events\Default Work Unit\Destruction_Rock_Destroy">
+					<IncludedMemoryFiles>
+						<File Id="73394521" Language="SFX">
+							<ShortName>Destruction\BAS_Destroy_Rock_01.wav</ShortName>
+							<Path>SFX\Destruction\BAS_Destroy_Rock_01_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="1355168291" Language="SFX" Hash="4097642722">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="1421251628" Language="SFX" Hash="80661246">
+			<ObjectPath>\SoundBanks\Default Work Unit\Woodlands</ObjectPath>
+			<ShortName>Woodlands</ShortName>
+			<Path>Woodlands.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="1850388778" Language="SFX" Hash="1266346574">
+			<ObjectPath>\SoundBanks\Default Work Unit\Desert</ObjectPath>
+			<ShortName>Desert</ShortName>
+			<Path>Desert.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2541270269" Name="Destruction_VolcanicBoulder_Impact" ObjectPath="\Events\Default Work Unit\Destruction_VolcanicBoulder_Impact">
+					<IncludedMemoryFiles>
+						<File Id="799086651" Language="SFX">
+							<ShortName>Destruction\Volcanic Boulder\Explosion.wav</ShortName>
+							<Path>SFX\Destruction\Volcanic Boulder\Explosion_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="2482365692" Language="SFX" Hash="2034809225">
+			<ObjectPath>\SoundBanks\Default Work Unit\PineForest</ObjectPath>
+			<ShortName>PineForest</ShortName>
+			<Path>PineForest.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="3945572659" Language="SFX" Hash="3661773860">
+			<ObjectPath>\SoundBanks\Default Work Unit\Village</ObjectPath>
+			<ShortName>Village</ShortName>
+			<Path>Village.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2752753183" Name="Ambient_Region_Village" ObjectPath="\Events\martíworkunit\Ambient_Region_Village">
+					<IncludedMemoryFiles>
+						<File Id="22517764" Language="SFX">
+							<ShortName>BAS_amb_village_day_background_loop_01.wav</ShortName>
+							<Path>SFX\BAS_amb_village_day_background_loop_01_D79FB2B7.wem</Path>
+						</File>
+						<File Id="312517804" Language="SFX">
+							<ShortName>BAS_amb_village_night_background_loop_01.wav</ShortName>
+							<Path>SFX\BAS_amb_village_night_background_loop_01_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+			<GameParameters>
+				<GameParameter Id="207908541" Name="Time_Of_Day" ObjectPath="\Game Parameters\Default Work Unit\Time_Of_Day"/>
+			</GameParameters>
+		</SoundBank>
+		<SoundBank Id="4122393694" Language="SFX" Hash="3292459837">
+			<ObjectPath>\SoundBanks\Default Work Unit\Cave</ObjectPath>
+			<ShortName>Cave</ShortName>
+			<Path>Cave.bnk</Path>
+			<IncludedEvents>
+				<Event Id="448719855" Name="Destruction_Crystal_Destroy" ObjectPath="\Events\Default Work Unit\Destruction_Crystal_Destroy">
+					<IncludedMemoryFiles>
+						<File Id="418996869" Language="SFX">
+							<ShortName>Destruction\BAS_Crystals_Destroy.wav</ShortName>
+							<Path>SFX\Destruction\BAS_Crystals_Destroy_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

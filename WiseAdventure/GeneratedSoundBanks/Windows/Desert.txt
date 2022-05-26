@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2541270269	Destruction_VolcanicBoulder_Impact			\Default Work Unit\Destruction_VolcanicBoulder_Impact	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	799086651	Explosion	C:\Repositorios\WwiseProject\WISE\WiseAdventure\.cache\Windows\SFX\Destruction\Volcanic Boulder\Explosion_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Destruction\Volcanic Boulder\Explosion		768144
+
