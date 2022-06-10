@@ -2,5 +2,5 @@ Event	ID	Name			Wwise Object Path	Notes
 	1999886838	Destruction_Rock_Destroy			\Default Work Unit\Destruction_Rock_Destroy	
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
-	73394521	BAS_Destroy_Rock_01	C:\Repositorios\WwiseProject\WISE\WiseAdventure\.cache\Windows\SFX\Destruction\BAS_Destroy_Rock_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Destruction\BAS_Destroy_Rock_01		105536
+	73394521	BAS_Destroy_Rock_01	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\Destruction\BAS_Destroy_Rock_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Destruction\BAS_Destroy_Rock_01		105536
 

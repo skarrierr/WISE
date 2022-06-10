@@ -206,6 +206,17 @@
 				</Event>
 				<Event Name="Quest_Complete" ID="{A9441E81-1272-4AF0-BA95-6F704D99C70E}"/>
 				<Event Name="Quest_CompleteCollection" ID="{936567DC-1CA0-4E40-927C-3A007FD61C4D}"/>
+				<Event Name="Player_Footstep" ID="{75DBCD9D-E7FC-4482-8E86-CB52C106A03F}">
+					<ChildrenList>
+						<Action Name="" ID="{090E5478-66E5-4DCE-B7F2-292BC4357FB7}" ShortID="505881626">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Surface_Type" ID="{33AEB435-3EE2-4EEF-A470-4734BD267998}" WorkUnitID="{8133DBBE-5DA6-4DFA-8E36-03238CAFA744}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

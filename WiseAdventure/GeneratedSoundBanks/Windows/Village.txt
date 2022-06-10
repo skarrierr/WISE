@@ -5,6 +5,6 @@ Game Parameter	ID	Name			Wwise Object Path	Notes
 	207908541	Time_Of_Day			\Default Work Unit\Time_Of_Day	
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
-	22517764	BAS_amb_village_day_background_loop_01	C:\Repositorios\WwiseProject\WISE\WiseAdventure\.cache\Windows\SFX\BAS_amb_village_day_background_loop_01_D79FB2B7.wem		\Actor-Mixer Hierarchy\MartíWorkUnit\Ambience\BAS_amb_village_day_background_loop_01		28801088
-	312517804	BAS_amb_village_night_background_loop_01	C:\Repositorios\WwiseProject\WISE\WiseAdventure\.cache\Windows\SFX\BAS_amb_village_night_background_loop_01_D79FB2B7.wem		\Actor-Mixer Hierarchy\MartíWorkUnit\Ambience\BAS_amb_village_night_background_loop_01		23457856
+	22517764	BAS_amb_village_day_background_loop_01	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_amb_village_day_background_loop_01_D79FB2B7.wem		\Actor-Mixer Hierarchy\MartíWorkUnit\Ambience\BAS_amb_village_day_background_loop_01		28801088
+	312517804	BAS_amb_village_night_background_loop_01	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_amb_village_night_background_loop_01_D79FB2B7.wem		\Actor-Mixer Hierarchy\MartíWorkUnit\Ambience\BAS_amb_village_night_background_loop_01		23457856
 

@@ -1,6 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{59DC3A9E-7BF7-45B0-9CC1-38B2B4EC5114}" SchemaVersion="103">
 	<Switches>
-		<WorkUnit Name="Default Work Unit" ID="{59DC3A9E-7BF7-45B0-9CC1-38B2B4EC5114}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{59DC3A9E-7BF7-45B0-9CC1-38B2B4EC5114}" PersistMode="Standalone">
+			<ChildrenList>
+				<SwitchGroup Name="Surface_Type" ID="{CA80ABC8-47B8-4EEB-83F3-3423812FB3CB}">
+					<ChildrenList>
+						<Switch Name="Dirt" ID="{A8FBAEF9-8DB0-4CB0-9D6B-99026BC5A8CB}"/>
+						<Switch Name="Sand" ID="{38642565-52B0-449B-A8F4-CD5012F4481C}"/>
+						<Switch Name="Water" ID="{BC38B5C8-408F-4073-9251-AB2D870F3A99}"/>
+						<Switch Name="Stone" ID="{C34CC789-9A00-4FC8-B946-9DA3AB9EDDA3}"/>
+						<Switch Name="Wood" ID="{F59BAB90-B073-4FDC-AE1A-86F40ACBCDB1}"/>
+						<Switch Name="Grass" ID="{6BCF3620-2D89-4E22-9C8A-BE9EFC12DC79}"/>
+						<Switch Name="Rubble" ID="{32E96500-B47A-4886-AE68-E5FB87E8A021}"/>
+					</ChildrenList>
+					<SwitchOnRTPC>
+						<GameParameterRef Name="Player_MovementSpeed" ID="{10834758-7A39-4FFD-9D31-FAED1BC5B67C}"/>
+						<Curve Name="" ID="{ED77374D-9A58-44B0-B6A8-37AABFBB0763}">
+							<PropertyList>
+								<Property Name="Flags" Type="int32" Value="65537"/>
+							</PropertyList>
+							<PointList>
+								<Point>
+									<XPos>0</XPos>
+									<YPos>0</YPos>
+									<Flags>5</Flags>
+								</Point>
+								<Point>
+									<XPos>100</XPos>
+									<YPos>0</YPos>
+									<Flags>37</Flags>
+								</Point>
+							</PointList>
+						</Curve>
+					</SwitchOnRTPC>
+				</SwitchGroup>
+			</ChildrenList>
+		</WorkUnit>
 	</Switches>
 </WwiseDocument>
