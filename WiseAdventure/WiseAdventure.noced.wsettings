@@ -5,6 +5,7 @@
 			<PropertyList>
 				<Property Name="AudioFilesImporter\Path" Type="string" Value="C:\Users\noced\OneDrive\Escritorio\Wwise\EntregaWwise\WAG Originals\Heartbeat\"/>
 				<Property Name="Event Action List\{203CA176-D03A-4763-9530-2DB9C528B9CE}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{3E98C868-C829-43BD-9CC8-9315765D727D}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{75DBCD9D-E7FC-4482-8E86-CB52C106A03F}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{8D91515B-E020-4CBE-8E32-A9FB644B9C6D}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{AC4DF235-FA1C-46A3-BCBF-61B21B9142EA}\x64_Expand States" Type="string" Value=""/>

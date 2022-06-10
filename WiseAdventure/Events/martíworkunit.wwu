@@ -21,6 +21,24 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Ambient_Region_PineForest" ID="{3E98C868-C829-43BD-9CC8-9315765D727D}">
+					<ChildrenList>
+						<Action Name="" ID="{4D01B343-7E36-46BB-AECD-F90FCEF86480}" ShortID="708922665">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="amb_forest_night_background_loop_02" ID="{6DC07155-8476-4AF2-AA09-C14C06CC9D92}" WorkUnitID="{6F8344DB-BEC6-4729-B8EF-8BDD100BFA6E}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{4C6BF7C1-F845-49A2-9155-3346F7A54034}" ShortID="224741854">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="BAS_amb_forest_day_background_loop_01" ID="{F1C7D824-F464-4410-8316-B352C0C0C6C2}" WorkUnitID="{6F8344DB-BEC6-4729-B8EF-8BDD100BFA6E}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>
