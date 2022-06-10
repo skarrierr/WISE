@@ -3,6 +3,7 @@
 	<UserProjectSettingsInfo>
 		<UserProjectSettings Name="" ID="{F9A8A7E1-4A0B-42FA-ACDF-04CC211DFD1D}">
 			<PropertyList>
+				<Property Name="AudioFilesImporter\Path" Type="string" Value="C:\Users\noced\OneDrive\Escritorio\Wwise\EntregaWwise\WAG Originals\Footsteps\Run\Grass\"/>
 				<Property Name="Event Action List\{203CA176-D03A-4763-9530-2DB9C528B9CE}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{8D91515B-E020-4CBE-8E32-A9FB644B9C6D}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{EE4F24DC-4B72-495A-B678-4781B02C32BA}\x64_Expand States" Type="string" Value=""/>
@@ -23,7 +24,7 @@
 				<Property Name="General\SourceControlPluginID" Type="string" Value="{C403A906-0C19-4ED5-808E-748707065301}"/>
 				<Property Name="GenerateSoundBanks\x64_SelectedLanguages" Type="string" Value="BvDMKA=="/>
 				<Property Name="GenerateSoundBanks\x64_SelectedPlatforms" Type="string" Value="8sEkpThEf0WZyy8ZL0aTzA=="/>
-				<Property Name="GenerateSoundBanks\x64_SelectedSoundBanks" Type="string" Value="+kVSstLWyEOIFjmfbyv0lhKbrfKQenxHkfKbMkbrWi6tqkLlancMSbgNwYYszQgD9I7c3U+Da02/YmpV6A/TxWIIMdZbm9ZBokehZ3by5H6Lo8ftqnJiQpN5OrnqDbHtqkFbngepf0GR92s+isEOkw=="/>
+				<Property Name="GenerateSoundBanks\x64_SelectedSoundBanks" Type="string" Value="+kVSstLWyEOIFjmfbyv0lhKbrfKQenxHkfKbMkbrWi6tqkLlancMSbgNwYYszQgD9I7c3U+Da02/YmpV6A/TxWIIMdZbm9ZBokehZ3by5H6qQVueB6l/QZH3az6KwQ6T"/>
 				<Property Name="HardwareController\CurrentSession" Type="string" Value="{00000000-0000-0000-0000-000000000000}"/>
 				<Property Name="MeterView\LastObject1" Type="string" Value="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}"/>
 				<Property Name="MeterView\MeterMode1" Type="int32" Value="1"/>

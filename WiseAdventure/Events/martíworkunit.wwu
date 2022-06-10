@@ -21,6 +21,7 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Player_Footstep" ID="{75DBCD9D-E7FC-4482-8E86-CB52C106A03F}"/>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>
