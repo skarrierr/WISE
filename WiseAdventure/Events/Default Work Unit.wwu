@@ -14,7 +14,6 @@
 						</Action>
 					</ChildrenList>
 				</Event>
-				<Event Name="Player_WeaponSwing" ID="{F49EF24B-E9FA-422F-A429-087EF059B0AB}"/>
 				<Event Name="UI_Button_Down" ID="{847A3F5B-AA82-48E7-A71A-45D988EF0F37}">
 					<ChildrenList>
 						<Action Name="" ID="{9AC27657-575B-47C3-AD78-92BF7D02F6DE}" ShortID="977256999">

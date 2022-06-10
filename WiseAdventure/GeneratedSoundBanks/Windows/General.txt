@@ -16,34 +16,54 @@ Event	ID	Name			Wwise Object Path	Notes
 	3237189652	UI_Menu_Pause			\Default Work Unit\UI_Menu_Pause	
 	3240473869	Quest_Complete			\Default Work Unit\Quest_Complete	
 	3474566310	UI_Menu_Select			\Default Work Unit\UI_Menu_Select	
+	3695342915	Player_WeaponImpact			\Default Work Unit\Player_WeaponImpact	
 	3699139167	UI_QuestRoll_Show			\Default Work Unit\UI_QuestRoll_Show	
 	3749307760	UI_Inventory_Roll			\Default Work Unit\UI_Inventory_Roll	
-	3808743129	Player_WeaponSwing			\Default Work Unit\Player_WeaponSwing	
 	4254124015	Destruction_Container			\Default Work Unit\Destruction_Container	
 
 Switch Group	ID	Name			Wwise Object Path	Notes
+	3251833556	Player_Weapon_Type			\Default Work Unit\Player_Weapon_Type	
 	4064446173	Surface_Type			\Default Work Unit\Surface_Type	
 
 Switch	ID	Name	Switch Group			Notes
+	490825222	PickAxe	Player_Weapon_Type			
+	703486095	Hammer	Player_Weapon_Type			
+	765201635	Axe	Player_Weapon_Type			
+	2454616260	Sword	Player_Weapon_Type			
+	3732162827	Dagger	Player_Weapon_Type			
 	286660663	Rubble	Surface_Type			
+	442447909	Barrel	Surface_Type			
+	582824249	Leaves	Surface_Type			
 	803837735	Sand	Surface_Type			
 	1216965916	Stone	Surface_Type			
 	2058049674	Wood	Surface_Type			
 	2195636714	Dirt	Surface_Type			
 	2654748154	Water	Surface_Type			
+	3098439042	Crate	Surface_Type			
 	4248645337	Grass	Surface_Type			
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	19902131	BAS_Button_Open	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\UI\BAS_Button_Open_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI\BAS_Button_Open		56256
 	22351558	BAS_Player_Footstep_wood_run_04	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Player_Footstep_wood_run_04_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Surface_Type\Player_Footsteps_Wood\BAS_Player_Footstep_wood_run_04		26088
 	26653302	BAS_Player_Footstep_grass_run_04	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Player_Footstep_grass_run_04_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Surface_Type\Player_Footsteps_Grass\BAS_Player_Footstep_grass_run_04		26088
+	33246224	BAS_Impact_Sword_SurfaceType_Grass	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Impact_Sword_SurfaceType_Grass_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\WeaponImpact\Weapon_Impact\Sword_Impact\BAS_Impact_Sword_SurfaceType_Grass		72140
+	44017418	BAS_Impact_Dagger_SurfaceType_Dirt	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Impact_Dagger_SurfaceType_Dirt_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\WeaponImpact\Weapon_Impact\Dagger_Impact\BAS_Impact_Dagger_SurfaceType_Dirt		41162
+	51144153	BAS_Impact_Sword_SurfaceType_Crate	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Impact_Sword_SurfaceType_Crate_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\WeaponImpact\Weapon_Impact\Sword_Impact\BAS_Impact_Sword_SurfaceType_Crate		61798
+	74451781	BAS_Impact_Dagger_SurfaceType_Crate	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Impact_Dagger_SurfaceType_Crate_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\WeaponImpact\Weapon_Impact\Dagger_Impact\BAS_Impact_Dagger_SurfaceType_Crate		54144
 	79374516	BAS_Player_Footstep_wood_run_01	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Player_Footstep_wood_run_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Surface_Type\Player_Footsteps_Wood\BAS_Player_Footstep_wood_run_01		26724
+	87863855	BAS_Impact_PickAxe_SurfaceType_Crate	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Impact_PickAxe_SurfaceType_Crate_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\WeaponImpact\Weapon_Impact\PickAxe_Impact\BAS_Impact_PickAxe_SurfaceType_Crate		34914
 	88705069	BAS_Player_Footstep_rubble_run_03	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Player_Footstep_rubble_run_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Surface_Type\Player_Footsteps_Rubble\BAS_Player_Footstep_rubble_run_03		26464
+	112181338	BAS_Impact_Axe_SurfaceType_Barrel	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Impact_Axe_SurfaceType_Barrel_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\WeaponImpact\Weapon_Impact\Axe_ Impact\BAS_Impact_Axe_SurfaceType_Barrel		107610
+	114919924	BAS_Impact_Sword_SurfaceType_Leaves	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Impact_Sword_SurfaceType_Leaves_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\WeaponImpact\Weapon_Impact\Sword_Impact\BAS_Impact_Sword_SurfaceType_Leaves		127040
 	138815032	BAS_Player_Footstep_dirt_run_01	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Player_Footstep_dirt_run_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Surface_Type\Player_Footsteps_Dirt\BAS_Player_Footstep_dirt_run_01		26724
 	150304345	BAS_Player_Footstep_rubble_run_05	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Player_Footstep_rubble_run_05_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Surface_Type\Player_Footsteps_Rubble\BAS_Player_Footstep_rubble_run_05		23238
+	155482965	BAS_Impact_Axe_SurfaceType_Dirt	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Impact_Axe_SurfaceType_Dirt_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\WeaponImpact\Weapon_Impact\Axe_ Impact\BAS_Impact_Axe_SurfaceType_Dirt		35402
 	175081527	BAS_QuestRoll_Close	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\UI\BAS_QuestRoll_Close_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI\BAS_QuestRoll_Close		112326
+	180467998	BAS_Impact_Dagger_SurfaceType_Stone	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Impact_Dagger_SurfaceType_Stone_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\WeaponImpact\Weapon_Impact\Dagger_Impact\BAS_Impact_Dagger_SurfaceType_Stone		25152
 	187644196	BAS_Player_Footstep_sand_run_06	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Player_Footstep_sand_run_06_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Surface_Type\Player_Footsteps_Sand\BAS_Player_Footstep_sand_run_06		24336
 	194015348	BAS_Player_Footstep_rubble_run_06	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Player_Footstep_rubble_run_06_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Surface_Type\Player_Footsteps_Rubble\BAS_Player_Footstep_rubble_run_06		25896
+	221069993	BAS_Impact_Axe_SurfaceType_Crate	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Impact_Axe_SurfaceType_Crate_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\WeaponImpact\Weapon_Impact\Axe_ Impact\BAS_Impact_Axe_SurfaceType_Crate		52398
+	227265548	BAS_Impact_Dagger_SurfaceType_Leaves	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Impact_Dagger_SurfaceType_Leaves_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\WeaponImpact\Weapon_Impact\Dagger_Impact\BAS_Impact_Dagger_SurfaceType_Leaves		34472
 	230350452	BAS_Button_Close	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\UI\BAS_Button_Close_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI\BAS_Button_Close		62500
 	271609827	BAS_Player_Footstep_sand_run_02	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Player_Footstep_sand_run_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Surface_Type\Player_Footsteps_Sand\BAS_Player_Footstep_sand_run_02		26926
 	271643535	BAS_Player_Footstep_dirt_run_06	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Player_Footstep_dirt_run_06_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Surface_Type\Player_Footsteps_Dirt\BAS_Player_Footstep_dirt_run_06		25896
@@ -52,13 +72,17 @@ In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	295921007	BAS_Player_Footstep_sand_run_04	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Player_Footstep_sand_run_04_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Surface_Type\Player_Footsteps_Sand\BAS_Player_Footstep_sand_run_04		27102
 	297160016	BAS_Player_Footstep_wood_run_02	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Player_Footstep_wood_run_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Surface_Type\Player_Footsteps_Wood\BAS_Player_Footstep_wood_run_02		25424
 	327574321	BAS_Player_Footstep_wood_run_06	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Player_Footstep_wood_run_06_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Surface_Type\Player_Footsteps_Wood\BAS_Player_Footstep_wood_run_06		25896
+	356637695	BAS_Impact_Dagger_SurfaceType_Wood	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Impact_Dagger_SurfaceType_Wood_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\WeaponImpact\Weapon_Impact\Dagger_Impact\BAS_Impact_Dagger_SurfaceType_Wood		42202
 	368071073	BAS_Inventory_Select	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\UI\BAS_Inventory_Select_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI\BAS_Inventory_Select		160956
 	384818527	BAS_Player_Footstep_dirt_run_05	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Player_Footstep_dirt_run_05_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Surface_Type\Player_Footsteps_Dirt\BAS_Player_Footstep_dirt_run_05		23238
 	386092330	BAS_QuestRoll_Open	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\UI\BAS_QuestRoll_Open_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI\BAS_QuestRoll_Open		104478
 	387102894	BAS_Player_Footstep_grass_run_02	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Player_Footstep_grass_run_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Surface_Type\Player_Footsteps_Grass\BAS_Player_Footstep_grass_run_02		25424
 	387726512	BAS_Player_Footstep_grass_run_06	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Player_Footstep_grass_run_06_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Surface_Type\Player_Footsteps_Grass\BAS_Player_Footstep_grass_run_06		25896
 	391727293	BAS_Player_Footstep_rubble_run_02	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Player_Footstep_rubble_run_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Surface_Type\Player_Footsteps_Rubble\BAS_Player_Footstep_rubble_run_02		25424
+	416782172	BAS_Impact_Dagger_SurfaceType_Grass	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Impact_Dagger_SurfaceType_Grass_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\WeaponImpact\Weapon_Impact\Dagger_Impact\BAS_Impact_Dagger_SurfaceType_Grass		56008
+	422227404	BAS_Impact_Axe_SurfaceType_Grass	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Impact_Axe_SurfaceType_Grass_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\WeaponImpact\Weapon_Impact\Axe_ Impact\BAS_Impact_Axe_SurfaceType_Grass		116800
 	439920812	BAS_Player_Footstep_stone_run_06	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Player_Footstep_stone_run_06_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Surface_Type\Player_Footsteps_Stone\BAS_Player_Footstep_stone_run_06		25896
+	444528197	BAS_Impact_Axe_SurfaceType_Leaves	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Impact_Axe_SurfaceType_Leaves_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\WeaponImpact\Weapon_Impact\Axe_ Impact\BAS_Impact_Axe_SurfaceType_Leaves		44088
 	449210052	BAS_Player_Footstep_dirt_run_03	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Player_Footstep_dirt_run_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Surface_Type\Player_Footsteps_Dirt\BAS_Player_Footstep_dirt_run_03		26464
 	486380429	BAS_Pickup_Coin_01	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\Pickups\Items\BAS_Pickup_Coin_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pickups\Items\BAS_Pickup_Coin_01		72160
 	503484127	BAS_Player_Footstep_water_run_02	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Player_Footstep_water_run_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Surface_Type\Player_Footsteps_Water\BAS_Player_Footstep_water_run_02		25424
@@ -68,14 +92,20 @@ In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	610422027	BAS_Player_Footstep_stone_run_04	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Player_Footstep_stone_run_04_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Surface_Type\Player_Footsteps_Stone\BAS_Player_Footstep_stone_run_04		26088
 	612340486	BAS_Player_Footstep_water_run_06	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Player_Footstep_water_run_06_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Surface_Type\Player_Footsteps_Water\BAS_Player_Footstep_water_run_06		25896
 	616257976	BAS_Player_Footstep_water_run_03	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Player_Footstep_water_run_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Surface_Type\Player_Footsteps_Water\BAS_Player_Footstep_water_run_03		26464
+	621030475	BAS_Impact_Hammer_SurfaceType_Crate	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Impact_Hammer_SurfaceType_Crate_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\WeaponImpact\Weapon_Impact\Hammer_Impact\BAS_Impact_Hammer_SurfaceType_Crate		46976
 	633706508	BAS_Player_Footstep_sand_run_05	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Player_Footstep_sand_run_05_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Surface_Type\Player_Footsteps_Sand\BAS_Player_Footstep_sand_run_05		25716
 	633934649	BAS_Player_Footstep_water_run_01	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Player_Footstep_water_run_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Surface_Type\Player_Footsteps_Water\BAS_Player_Footstep_water_run_01		26724
+	661854594	BAS_Impact_Hammer_SurfaceType_Barrel	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Impact_Hammer_SurfaceType_Barrel_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\WeaponImpact\Weapon_Impact\Hammer_Impact\BAS_Impact_Hammer_SurfaceType_Barrel		100650
 	662181473	BAS_Player_Footstep_stone_run_02	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Player_Footstep_stone_run_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Surface_Type\Player_Footsteps_Stone\BAS_Player_Footstep_stone_run_02		25424
+	667452415	BAS_Impact_Sword_SurfaceType_Barrel	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Impact_Sword_SurfaceType_Barrel_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\WeaponImpact\Weapon_Impact\Sword_Impact\BAS_Impact_Sword_SurfaceType_Barrel		91692
 	668017318	BAS_Player_Footstep_wood_run_03	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Player_Footstep_wood_run_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Surface_Type\Player_Footsteps_Wood\BAS_Player_Footstep_wood_run_03		26464
 	673529022	BAS_Player_Footstep_dirt_run_04	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Player_Footstep_dirt_run_04_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Surface_Type\Player_Footsteps_Dirt\BAS_Player_Footstep_dirt_run_04		26088
+	680226508	BAS_Impact_Dagger_SurfaceType_Barrel	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Impact_Dagger_SurfaceType_Barrel_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\WeaponImpact\Weapon_Impact\Dagger_Impact\BAS_Impact_Dagger_SurfaceType_Barrel		73384
 	695885658	BAS_Player_Footstep_wood_run_05	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Player_Footstep_wood_run_05_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Surface_Type\Player_Footsteps_Wood\BAS_Player_Footstep_wood_run_05		23238
 	703024934	BAS_Player_Footstep_rubble_run_04	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Player_Footstep_rubble_run_04_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Surface_Type\Player_Footsteps_Rubble\BAS_Player_Footstep_rubble_run_04		26088
+	744317919	BAS_Impact_Axe_SurfaceType_Stone	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Impact_Axe_SurfaceType_Stone_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\WeaponImpact\Weapon_Impact\Axe_ Impact\BAS_Impact_Axe_SurfaceType_Stone		62410
 	756041632	BAS_Player_Footstep_stone_run_05	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Player_Footstep_stone_run_05_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Surface_Type\Player_Footsteps_Stone\BAS_Player_Footstep_stone_run_05		23238
+	756917123	BAS_Impact_Sword_SurfaceType_Wood	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Impact_Sword_SurfaceType_Wood_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\WeaponImpact\Weapon_Impact\Sword_Impact\BAS_Impact_Sword_SurfaceType_Wood		71868
 	761585040	BAS_Player_Footstep_grass_run_05	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Player_Footstep_grass_run_05_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Surface_Type\Player_Footsteps_Grass\BAS_Player_Footstep_grass_run_05		23238
 	779981189	BAS_Player_Footstep_dirt_run_02	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Player_Footstep_dirt_run_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Surface_Type\Player_Footsteps_Dirt\BAS_Player_Footstep_dirt_run_02		25424
 	809291065	BAS_Inventory_Open	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\UI\BAS_Inventory_Open_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI\BAS_Inventory_Open		45368
@@ -85,7 +115,10 @@ In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	894262809	BAS_Button_Enter	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\UI\BAS_Button_Enter_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI\BAS_Button_Enter		117424
 	918137319	BAS_Player_Footstep_grass_run_01	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Player_Footstep_grass_run_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Surface_Type\Player_Footsteps_Grass\BAS_Player_Footstep_grass_run_01		26724
 	946500044	BAS_Player_Footstep_water_run_04	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Player_Footstep_water_run_04_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Surface_Type\Player_Footsteps_Water\BAS_Player_Footstep_water_run_04		26088
+	951881876	BAS_Impact_Sword_SurfaceType_Dirt	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Impact_Sword_SurfaceType_Dirt_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\WeaponImpact\Weapon_Impact\Sword_Impact\BAS_Impact_Sword_SurfaceType_Dirt		56902
 	976468332	BAS_Player_Footstep_grass_run_03	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Player_Footstep_grass_run_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Surface_Type\Player_Footsteps_Grass\BAS_Player_Footstep_grass_run_03		26464
+	977207151	BAS_Impact_Sword_SurfaceType_Stone	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Impact_Sword_SurfaceType_Stone_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\WeaponImpact\Weapon_Impact\Sword_Impact\BAS_Impact_Sword_SurfaceType_Stone		115320
+	991119867	BAS_Impact_PickAxe_SurfaceType_Barrel	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Impact_PickAxe_SurfaceType_Barrel_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\WeaponImpact\Weapon_Impact\PickAxe_Impact\BAS_Impact_PickAxe_SurfaceType_Barrel		38898
 	996780721	BAS_Player_Footstep_sand_run_01	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Player_Footstep_sand_run_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Surface_Type\Player_Footsteps_Sand\BAS_Player_Footstep_sand_run_01		29168
 	1009209779	BAS_Player_Footstep_sand_run_03	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Player_Footstep_sand_run_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Surface_Type\Player_Footsteps_Sand\BAS_Player_Footstep_sand_run_03		29132
 	1063307591	BAS_Player_Footstep_water_run_05	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Player_Footstep_water_run_05_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Surface_Type\Player_Footsteps_Water\BAS_Player_Footstep_water_run_05		23238

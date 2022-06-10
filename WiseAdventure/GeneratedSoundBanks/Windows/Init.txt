@@ -3,11 +3,14 @@ Switch Group	ID	Name			Wwise Object Path	Notes
 
 Switch	ID	Name	Switch Group			Notes
 	286660663	Rubble	Surface_Type			
+	442447909	Barrel	Surface_Type			
+	582824249	Leaves	Surface_Type			
 	803837735	Sand	Surface_Type			
 	1216965916	Stone	Surface_Type			
 	2058049674	Wood	Surface_Type			
 	2195636714	Dirt	Surface_Type			
 	2654748154	Water	Surface_Type			
+	3098439042	Crate	Surface_Type			
 	4248645337	Grass	Surface_Type			
 
 Game Parameter	ID	Name			Wwise Object Path	Notes

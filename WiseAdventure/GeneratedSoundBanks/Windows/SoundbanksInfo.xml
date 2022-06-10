@@ -11,7 +11,7 @@
 	<StreamedFiles/>
 	<MediaFilesNotInAnyBank/>
 	<SoundBanks>
-		<SoundBank Id="133642231" Language="SFX" Hash="2108700790">
+		<SoundBank Id="133642231" Language="SFX" Hash="618241629">
 			<ObjectPath>\SoundBanks\Default Work Unit\General</ObjectPath>
 			<ShortName>General</ShortName>
 			<Path>General.bnk</Path>
@@ -277,7 +277,248 @@
 						</SwitchContainer>
 					</SwitchContainers>
 				</Event>
-				<Event Id="3808743129" Name="Player_WeaponSwing" ObjectPath="\Events\Default Work Unit\Player_WeaponSwing"/>
+				<Event Id="3695342915" Name="Player_WeaponImpact" ObjectPath="\Events\Default Work Unit\Player_WeaponImpact">
+					<IncludedMemoryFiles>
+						<File Id="33246224" Language="SFX">
+							<ShortName>BAS_Impact_Sword_SurfaceType_Grass.wav</ShortName>
+							<Path>SFX\BAS_Impact_Sword_SurfaceType_Grass_10C4C929.wem</Path>
+						</File>
+						<File Id="44017418" Language="SFX">
+							<ShortName>BAS_Impact_Dagger_SurfaceType_Dirt.wav</ShortName>
+							<Path>SFX\BAS_Impact_Dagger_SurfaceType_Dirt_10C4C929.wem</Path>
+						</File>
+						<File Id="51144153" Language="SFX">
+							<ShortName>BAS_Impact_Sword_SurfaceType_Crate.wav</ShortName>
+							<Path>SFX\BAS_Impact_Sword_SurfaceType_Crate_10C4C929.wem</Path>
+						</File>
+						<File Id="74451781" Language="SFX">
+							<ShortName>BAS_Impact_Dagger_SurfaceType_Crate.wav</ShortName>
+							<Path>SFX\BAS_Impact_Dagger_SurfaceType_Crate_10C4C929.wem</Path>
+						</File>
+						<File Id="87863855" Language="SFX">
+							<ShortName>BAS_Impact_PickAxe_SurfaceType_Crate.wav</ShortName>
+							<Path>SFX\BAS_Impact_PickAxe_SurfaceType_Crate_10C4C929.wem</Path>
+						</File>
+						<File Id="112181338" Language="SFX">
+							<ShortName>BAS_Impact_Axe_SurfaceType_Barrel.wav</ShortName>
+							<Path>SFX\BAS_Impact_Axe_SurfaceType_Barrel_10C4C929.wem</Path>
+						</File>
+						<File Id="114919924" Language="SFX">
+							<ShortName>BAS_Impact_Sword_SurfaceType_Leaves.wav</ShortName>
+							<Path>SFX\BAS_Impact_Sword_SurfaceType_Leaves_10C4C929.wem</Path>
+						</File>
+						<File Id="155482965" Language="SFX">
+							<ShortName>BAS_Impact_Axe_SurfaceType_Dirt.wav</ShortName>
+							<Path>SFX\BAS_Impact_Axe_SurfaceType_Dirt_10C4C929.wem</Path>
+						</File>
+						<File Id="180467998" Language="SFX">
+							<ShortName>BAS_Impact_Dagger_SurfaceType_Stone.wav</ShortName>
+							<Path>SFX\BAS_Impact_Dagger_SurfaceType_Stone_10C4C929.wem</Path>
+						</File>
+						<File Id="221069993" Language="SFX">
+							<ShortName>BAS_Impact_Axe_SurfaceType_Crate.wav</ShortName>
+							<Path>SFX\BAS_Impact_Axe_SurfaceType_Crate_10C4C929.wem</Path>
+						</File>
+						<File Id="227265548" Language="SFX">
+							<ShortName>BAS_Impact_Dagger_SurfaceType_Leaves.wav</ShortName>
+							<Path>SFX\BAS_Impact_Dagger_SurfaceType_Leaves_10C4C929.wem</Path>
+						</File>
+						<File Id="356637695" Language="SFX">
+							<ShortName>BAS_Impact_Dagger_SurfaceType_Wood.wav</ShortName>
+							<Path>SFX\BAS_Impact_Dagger_SurfaceType_Wood_10C4C929.wem</Path>
+						</File>
+						<File Id="416782172" Language="SFX">
+							<ShortName>BAS_Impact_Dagger_SurfaceType_Grass.wav</ShortName>
+							<Path>SFX\BAS_Impact_Dagger_SurfaceType_Grass_10C4C929.wem</Path>
+						</File>
+						<File Id="422227404" Language="SFX">
+							<ShortName>BAS_Impact_Axe_SurfaceType_Grass.wav</ShortName>
+							<Path>SFX\BAS_Impact_Axe_SurfaceType_Grass_10C4C929.wem</Path>
+						</File>
+						<File Id="444528197" Language="SFX">
+							<ShortName>BAS_Impact_Axe_SurfaceType_Leaves.wav</ShortName>
+							<Path>SFX\BAS_Impact_Axe_SurfaceType_Leaves_10C4C929.wem</Path>
+						</File>
+						<File Id="621030475" Language="SFX">
+							<ShortName>BAS_Impact_Hammer_SurfaceType_Crate.wav</ShortName>
+							<Path>SFX\BAS_Impact_Hammer_SurfaceType_Crate_10C4C929.wem</Path>
+						</File>
+						<File Id="661854594" Language="SFX">
+							<ShortName>BAS_Impact_Hammer_SurfaceType_Barrel.wav</ShortName>
+							<Path>SFX\BAS_Impact_Hammer_SurfaceType_Barrel_10C4C929.wem</Path>
+						</File>
+						<File Id="667452415" Language="SFX">
+							<ShortName>BAS_Impact_Sword_SurfaceType_Barrel.wav</ShortName>
+							<Path>SFX\BAS_Impact_Sword_SurfaceType_Barrel_10C4C929.wem</Path>
+						</File>
+						<File Id="680226508" Language="SFX">
+							<ShortName>BAS_Impact_Dagger_SurfaceType_Barrel.wav</ShortName>
+							<Path>SFX\BAS_Impact_Dagger_SurfaceType_Barrel_10C4C929.wem</Path>
+						</File>
+						<File Id="744317919" Language="SFX">
+							<ShortName>BAS_Impact_Axe_SurfaceType_Stone.wav</ShortName>
+							<Path>SFX\BAS_Impact_Axe_SurfaceType_Stone_10C4C929.wem</Path>
+						</File>
+						<File Id="756917123" Language="SFX">
+							<ShortName>BAS_Impact_Sword_SurfaceType_Wood.wav</ShortName>
+							<Path>SFX\BAS_Impact_Sword_SurfaceType_Wood_10C4C929.wem</Path>
+						</File>
+						<File Id="951881876" Language="SFX">
+							<ShortName>BAS_Impact_Sword_SurfaceType_Dirt.wav</ShortName>
+							<Path>SFX\BAS_Impact_Sword_SurfaceType_Dirt_10C4C929.wem</Path>
+						</File>
+						<File Id="977207151" Language="SFX">
+							<ShortName>BAS_Impact_Sword_SurfaceType_Stone.wav</ShortName>
+							<Path>SFX\BAS_Impact_Sword_SurfaceType_Stone_10C4C929.wem</Path>
+						</File>
+						<File Id="991119867" Language="SFX">
+							<ShortName>BAS_Impact_PickAxe_SurfaceType_Barrel.wav</ShortName>
+							<Path>SFX\BAS_Impact_PickAxe_SurfaceType_Barrel_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{B1469E01-0EE9-447C-891A-9E5C5F6C0E4E}">
+							<Children>
+								<SwitchContainer SwitchValue="{6BCF3620-2D89-4E22-9C8A-BE9EFC12DC79}">
+									<Media>
+										<File Id="33246224"/>
+									</Media>
+								</SwitchContainer>
+								<SwitchContainer SwitchValue="{6643E073-6DBC-4EFA-B06F-DEBFBB53A026}">
+									<Media>
+										<File Id="114919924"/>
+									</Media>
+								</SwitchContainer>
+								<SwitchContainer SwitchValue="{C34CC789-9A00-4FC8-B946-9DA3AB9EDDA3}">
+									<Media>
+										<File Id="977207151"/>
+									</Media>
+								</SwitchContainer>
+								<SwitchContainer SwitchValue="{F59BAB90-B073-4FDC-AE1A-86F40ACBCDB1}">
+									<Media>
+										<File Id="756917123"/>
+									</Media>
+								</SwitchContainer>
+								<SwitchContainer SwitchValue="{753BDEBD-061C-45A7-8578-5970C9FCE05C}">
+									<Media>
+										<File Id="667452415"/>
+									</Media>
+								</SwitchContainer>
+								<SwitchContainer SwitchValue="{6564E2CB-322E-4E07-8A0B-2364C5EFFA99}">
+									<Media>
+										<File Id="51144153"/>
+									</Media>
+								</SwitchContainer>
+								<SwitchContainer SwitchValue="{A8FBAEF9-8DB0-4CB0-9D6B-99026BC5A8CB}">
+									<Media>
+										<File Id="951881876"/>
+									</Media>
+								</SwitchContainer>
+							</Children>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{FFEBD410-527C-4E45-B5F2-A43D534EF62C}">
+							<Children>
+								<SwitchContainer SwitchValue="{753BDEBD-061C-45A7-8578-5970C9FCE05C}">
+									<Media>
+										<File Id="661854594"/>
+									</Media>
+								</SwitchContainer>
+								<SwitchContainer SwitchValue="{6564E2CB-322E-4E07-8A0B-2364C5EFFA99}">
+									<Media>
+										<File Id="621030475"/>
+									</Media>
+								</SwitchContainer>
+							</Children>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{653A2B27-DC59-45B3-8AFB-12AAE78D656C}">
+							<Children>
+								<SwitchContainer SwitchValue="{6BCF3620-2D89-4E22-9C8A-BE9EFC12DC79}">
+									<Media>
+										<File Id="422227404"/>
+									</Media>
+								</SwitchContainer>
+								<SwitchContainer SwitchValue="{6643E073-6DBC-4EFA-B06F-DEBFBB53A026}">
+									<Media>
+										<File Id="444528197"/>
+									</Media>
+								</SwitchContainer>
+								<SwitchContainer SwitchValue="{C34CC789-9A00-4FC8-B946-9DA3AB9EDDA3}">
+									<Media>
+										<File Id="744317919"/>
+									</Media>
+								</SwitchContainer>
+								<SwitchContainer SwitchValue="{753BDEBD-061C-45A7-8578-5970C9FCE05C}">
+									<Media>
+										<File Id="112181338"/>
+									</Media>
+								</SwitchContainer>
+								<SwitchContainer SwitchValue="{6564E2CB-322E-4E07-8A0B-2364C5EFFA99}">
+									<Media>
+										<File Id="221069993"/>
+									</Media>
+								</SwitchContainer>
+								<SwitchContainer SwitchValue="{A8FBAEF9-8DB0-4CB0-9D6B-99026BC5A8CB}">
+									<Media>
+										<File Id="155482965"/>
+									</Media>
+								</SwitchContainer>
+							</Children>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{1F28844C-E011-43F6-9CAC-74402698EF94}">
+							<Children>
+								<SwitchContainer SwitchValue="{6BCF3620-2D89-4E22-9C8A-BE9EFC12DC79}">
+									<Media>
+										<File Id="416782172"/>
+									</Media>
+								</SwitchContainer>
+								<SwitchContainer SwitchValue="{6643E073-6DBC-4EFA-B06F-DEBFBB53A026}">
+									<Media>
+										<File Id="227265548"/>
+									</Media>
+								</SwitchContainer>
+								<SwitchContainer SwitchValue="{C34CC789-9A00-4FC8-B946-9DA3AB9EDDA3}">
+									<Media>
+										<File Id="180467998"/>
+									</Media>
+								</SwitchContainer>
+								<SwitchContainer SwitchValue="{F59BAB90-B073-4FDC-AE1A-86F40ACBCDB1}">
+									<Media>
+										<File Id="356637695"/>
+									</Media>
+								</SwitchContainer>
+								<SwitchContainer SwitchValue="{753BDEBD-061C-45A7-8578-5970C9FCE05C}">
+									<Media>
+										<File Id="680226508"/>
+									</Media>
+								</SwitchContainer>
+								<SwitchContainer SwitchValue="{6564E2CB-322E-4E07-8A0B-2364C5EFFA99}">
+									<Media>
+										<File Id="74451781"/>
+									</Media>
+								</SwitchContainer>
+								<SwitchContainer SwitchValue="{A8FBAEF9-8DB0-4CB0-9D6B-99026BC5A8CB}">
+									<Media>
+										<File Id="44017418"/>
+									</Media>
+								</SwitchContainer>
+							</Children>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{E388724F-1AE2-460B-AB0A-F4F5468919DC}">
+							<Children>
+								<SwitchContainer SwitchValue="{753BDEBD-061C-45A7-8578-5970C9FCE05C}">
+									<Media>
+										<File Id="991119867"/>
+									</Media>
+								</SwitchContainer>
+								<SwitchContainer SwitchValue="{6564E2CB-322E-4E07-8A0B-2364C5EFFA99}">
+									<Media>
+										<File Id="87863855"/>
+									</Media>
+								</SwitchContainer>
+							</Children>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
 				<Event Id="3240473869" Name="Quest_Complete" ObjectPath="\Events\Default Work Unit\Quest_Complete"/>
 				<Event Id="844130829" Name="Quest_CompleteCollection" ObjectPath="\Events\Default Work Unit\Quest_CompleteCollection"/>
 				<Event Id="156563189" Name="UI_Button_Down" ObjectPath="\Events\Default Work Unit\UI_Button_Down">
@@ -388,6 +629,15 @@
 				<Event Id="3699139167" Name="UI_QuestRoll_Show" ObjectPath="\Events\Default Work Unit\UI_QuestRoll_Show"/>
 			</IncludedEvents>
 			<SwitchGroups>
+				<SwitchGroup Id="3251833556" Name="Player_Weapon_Type" ObjectPath="\Switches\Default Work Unit\Player_Weapon_Type" GUID="{9038679D-2878-4007-B20D-35C2ADB70C04}">
+					<Switches>
+						<Switch Id="765201635" Name="Axe" ObjectPath="\Switches\Default Work Unit\Player_Weapon_Type\Axe" GUID="{653A2B27-DC59-45B3-8AFB-12AAE78D656C}"/>
+						<Switch Id="3732162827" Name="Dagger" ObjectPath="\Switches\Default Work Unit\Player_Weapon_Type\Dagger" GUID="{1F28844C-E011-43F6-9CAC-74402698EF94}"/>
+						<Switch Id="703486095" Name="Hammer" ObjectPath="\Switches\Default Work Unit\Player_Weapon_Type\Hammer" GUID="{FFEBD410-527C-4E45-B5F2-A43D534EF62C}"/>
+						<Switch Id="490825222" Name="PickAxe" ObjectPath="\Switches\Default Work Unit\Player_Weapon_Type\PickAxe" GUID="{E388724F-1AE2-460B-AB0A-F4F5468919DC}"/>
+						<Switch Id="2454616260" Name="Sword" ObjectPath="\Switches\Default Work Unit\Player_Weapon_Type\Sword" GUID="{B1469E01-0EE9-447C-891A-9E5C5F6C0E4E}"/>
+					</Switches>
+				</SwitchGroup>
 				<SwitchGroup Id="4064446173" Name="Surface_Type" ObjectPath="\Switches\Default Work Unit\Surface_Type" GUID="{CA80ABC8-47B8-4EEB-83F3-3423812FB3CB}">
 					<Switches>
 						<Switch Id="2195636714" Name="Dirt" ObjectPath="\Switches\Default Work Unit\Surface_Type\Dirt" GUID="{A8FBAEF9-8DB0-4CB0-9D6B-99026BC5A8CB}"/>
@@ -397,6 +647,9 @@
 						<Switch Id="2058049674" Name="Wood" ObjectPath="\Switches\Default Work Unit\Surface_Type\Wood" GUID="{F59BAB90-B073-4FDC-AE1A-86F40ACBCDB1}"/>
 						<Switch Id="4248645337" Name="Grass" ObjectPath="\Switches\Default Work Unit\Surface_Type\Grass" GUID="{6BCF3620-2D89-4E22-9C8A-BE9EFC12DC79}"/>
 						<Switch Id="286660663" Name="Rubble" ObjectPath="\Switches\Default Work Unit\Surface_Type\Rubble" GUID="{32E96500-B47A-4886-AE68-E5FB87E8A021}"/>
+						<Switch Id="442447909" Name="Barrel" ObjectPath="\Switches\Default Work Unit\Surface_Type\Barrel" GUID="{753BDEBD-061C-45A7-8578-5970C9FCE05C}"/>
+						<Switch Id="3098439042" Name="Crate" ObjectPath="\Switches\Default Work Unit\Surface_Type\Crate" GUID="{6564E2CB-322E-4E07-8A0B-2364C5EFFA99}"/>
+						<Switch Id="582824249" Name="Leaves" ObjectPath="\Switches\Default Work Unit\Surface_Type\Leaves" GUID="{6643E073-6DBC-4EFA-B06F-DEBFBB53A026}"/>
 					</Switches>
 				</SwitchGroup>
 			</SwitchGroups>

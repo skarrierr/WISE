@@ -12,6 +12,9 @@
 						<Switch Name="Wood" ID="{F59BAB90-B073-4FDC-AE1A-86F40ACBCDB1}"/>
 						<Switch Name="Grass" ID="{6BCF3620-2D89-4E22-9C8A-BE9EFC12DC79}"/>
 						<Switch Name="Rubble" ID="{32E96500-B47A-4886-AE68-E5FB87E8A021}"/>
+						<Switch Name="Barrel" ID="{753BDEBD-061C-45A7-8578-5970C9FCE05C}"/>
+						<Switch Name="Crate" ID="{6564E2CB-322E-4E07-8A0B-2364C5EFFA99}"/>
+						<Switch Name="Leaves" ID="{6643E073-6DBC-4EFA-B06F-DEBFBB53A026}"/>
 					</ChildrenList>
 					<SwitchOnRTPC>
 						<GameParameterRef Name="Player_MovementSpeed" ID="{10834758-7A39-4FFD-9D31-FAED1BC5B67C}"/>
