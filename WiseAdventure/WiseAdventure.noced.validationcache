@@ -5,10 +5,10 @@
 	<ValidationCacheItem File="C:\Repositorios\WwiseProject\WISE\WiseAdventure\Virtual Acoustics\Factory Acoustic Textures.wwu" DateLow="1653393311" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Repositorios\WwiseProject\WISE\WiseAdventure\Virtual Acoustics\Default Work Unit.wwu" DateLow="1653393311" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Repositorios\WwiseProject\WISE\WiseAdventure\Triggers\Default Work Unit.wwu" DateLow="1653393311" DateHigh="0"/>
-	<ValidationCacheItem File="C:\Repositorios\WwiseProject\WISE\WiseAdventure\Switches\Default Work Unit.wwu" DateLow="1653393311" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Repositorios\WwiseProject\WISE\WiseAdventure\Switches\Default Work Unit.wwu" DateLow="1654874504" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Repositorios\WwiseProject\WISE\WiseAdventure\States\Default Work Unit.wwu" DateLow="1653393311" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Repositorios\WwiseProject\WISE\WiseAdventure\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1653393311" DateHigh="0"/>
-	<ValidationCacheItem File="C:\Repositorios\WwiseProject\WISE\WiseAdventure\SoundBanks\Default Work Unit.wwu" DateLow="1653568591" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Repositorios\WwiseProject\WISE\WiseAdventure\SoundBanks\Default Work Unit.wwu" DateLow="1654874504" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Repositorios\WwiseProject\WISE\WiseAdventure\Queries\Factory Queries.wwu" DateLow="1653393311" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Repositorios\WwiseProject\WISE\WiseAdventure\Queries\Default Work Unit.wwu" DateLow="1653393311" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Repositorios\WwiseProject\WISE\WiseAdventure\Presets\Factory Spatial Audio.wwu" DateLow="1653393311" DateHigh="0"/>
@@ -21,9 +21,9 @@
 	<ValidationCacheItem File="C:\Repositorios\WwiseProject\WISE\WiseAdventure\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1653393308" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Repositorios\WwiseProject\WISE\WiseAdventure\Game Parameters\Factory SoundSeed Air Game Syncs.wwu" DateLow="1653393308" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Repositorios\WwiseProject\WISE\WiseAdventure\Game Parameters\Factory Motion.wwu" DateLow="1653393308" DateHigh="0"/>
-	<ValidationCacheItem File="C:\Repositorios\WwiseProject\WISE\WiseAdventure\Game Parameters\Default Work Unit.wwu" DateLow="1653566138" DateHigh="0"/>
-	<ValidationCacheItem File="C:\Repositorios\WwiseProject\WISE\WiseAdventure\Events\martíworkunit.wwu" DateLow="1653568591" DateHigh="0"/>
-	<ValidationCacheItem File="C:\Repositorios\WwiseProject\WISE\WiseAdventure\Events\Default Work Unit.wwu" DateLow="1653568591" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Repositorios\WwiseProject\WISE\WiseAdventure\Game Parameters\Default Work Unit.wwu" DateLow="1654874504" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Repositorios\WwiseProject\WISE\WiseAdventure\Events\martíworkunit.wwu" DateLow="1654874504" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Repositorios\WwiseProject\WISE\WiseAdventure\Events\Default Work Unit.wwu" DateLow="1654874504" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Repositorios\WwiseProject\WISE\WiseAdventure\Effects\Factory Reflect.wwu" DateLow="1653393308" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Repositorios\WwiseProject\WISE\WiseAdventure\Effects\Factory McDSP Effects.wwu" DateLow="1653393308" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Repositorios\WwiseProject\WISE\WiseAdventure\Effects\Factory Mastering Suite.wwu" DateLow="1653393308" DateHigh="0"/>
@@ -43,6 +43,6 @@
 	<ValidationCacheItem File="C:\Repositorios\WwiseProject\WISE\WiseAdventure\Control Surface Sessions\Default Work Unit.wwu" DateLow="1653393308" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Repositorios\WwiseProject\WISE\WiseAdventure\Audio Devices\Default Work Unit.wwu" DateLow="1653393308" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Repositorios\WwiseProject\WISE\WiseAdventure\Attenuations\Default Work Unit.wwu" DateLow="1653393308" DateHigh="0"/>
-	<ValidationCacheItem File="C:\Repositorios\WwiseProject\WISE\WiseAdventure\Actor-Mixer Hierarchy\MartíWorkUnit.wwu" DateLow="1653568591" DateHigh="0"/>
-	<ValidationCacheItem File="C:\Repositorios\WwiseProject\WISE\WiseAdventure\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1653566138" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Repositorios\WwiseProject\WISE\WiseAdventure\Actor-Mixer Hierarchy\MartíWorkUnit.wwu" DateLow="1654874504" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Repositorios\WwiseProject\WISE\WiseAdventure\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1654874504" DateHigh="0"/>
 </ValidationCache>

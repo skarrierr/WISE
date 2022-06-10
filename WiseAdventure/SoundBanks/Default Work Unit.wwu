@@ -9,9 +9,11 @@
 						<ObjectRef Name="UI_Button_Enter" ID="{18790FD3-DB55-40A6-BDFD-2A1B8C7BAD60}" WorkUnitID="{FE0EE9F8-0FC4-49D9-9939-F3BBFD69173C}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="UI_Menu_Pause" ID="{D94A46F3-8695-4157-8B31-2DA9BF0847C9}" WorkUnitID="{FE0EE9F8-0FC4-49D9-9939-F3BBFD69173C}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Player_WeaponSwing" ID="{F49EF24B-E9FA-422F-A429-087EF059B0AB}" WorkUnitID="{FE0EE9F8-0FC4-49D9-9939-F3BBFD69173C}" Origin="Manual" Filter="7"/>
-						<ObjectRef Name="Player_Footstep" ID="{75DBCD9D-E7FC-4482-8E86-CB52C106A03F}" WorkUnitID="{FE0EE9F8-0FC4-49D9-9939-F3BBFD69173C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Player_Footstep" ID="{E3EC2D41-01C8-442E-92DB-9C2AC6A079D5}" WorkUnitID="{FE0EE9F8-0FC4-49D9-9939-F3BBFD69173C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Player_Footstep" ID="{75DBCD9D-E7FC-4482-8E86-CB52C106A03F}" WorkUnitID="{0BB68BEB-D5F0-4AED-9761-1EFF9F00DA38}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="UI_Menu_Select" ID="{3907F0B0-D980-44BC-8658-A2F3C4AB0C3C}" WorkUnitID="{FE0EE9F8-0FC4-49D9-9939-F3BBFD69173C}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="UI_Menu_Teleport" ID="{D96F279D-095B-4587-AA09-FFC86D924FE5}" WorkUnitID="{FE0EE9F8-0FC4-49D9-9939-F3BBFD69173C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Player_WeaponImpact" ID="{AC4DF235-FA1C-46A3-BCBF-61B21B9142EA}" WorkUnitID="{FE0EE9F8-0FC4-49D9-9939-F3BBFD69173C}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="UI_Inventory_Open" ID="{D845FEE0-A759-46AF-9B8B-B4E5AD0D4714}" WorkUnitID="{FE0EE9F8-0FC4-49D9-9939-F3BBFD69173C}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="UI_QuestRoll_Hide" ID="{08045D40-9EB1-47CE-818A-1D8CE103206C}" WorkUnitID="{FE0EE9F8-0FC4-49D9-9939-F3BBFD69173C}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="UI_Inventory_Close" ID="{39B46358-9762-481E-8124-068437C928DD}" WorkUnitID="{FE0EE9F8-0FC4-49D9-9939-F3BBFD69173C}" Origin="Manual" Filter="7"/>

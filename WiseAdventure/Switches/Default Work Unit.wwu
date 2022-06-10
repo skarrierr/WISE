@@ -34,6 +34,15 @@
 						</Curve>
 					</SwitchOnRTPC>
 				</SwitchGroup>
+				<SwitchGroup Name="Player_Weapon_Type" ID="{9038679D-2878-4007-B20D-35C2ADB70C04}">
+					<ChildrenList>
+						<Switch Name="Axe" ID="{653A2B27-DC59-45B3-8AFB-12AAE78D656C}"/>
+						<Switch Name="Dagger" ID="{1F28844C-E011-43F6-9CAC-74402698EF94}"/>
+						<Switch Name="Hammer" ID="{FFEBD410-527C-4E45-B5F2-A43D534EF62C}"/>
+						<Switch Name="PickAxe" ID="{E388724F-1AE2-460B-AB0A-F4F5468919DC}"/>
+						<Switch Name="Sword" ID="{B1469E01-0EE9-447C-891A-9E5C5F6C0E4E}"/>
+					</ChildrenList>
+				</SwitchGroup>
 			</ChildrenList>
 		</WorkUnit>
 	</Switches>
