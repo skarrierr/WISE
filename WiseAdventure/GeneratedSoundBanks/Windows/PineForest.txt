@@ -1,0 +1,10 @@
+Event	ID	Name			Wwise Object Path	Notes
+	808171864	Ambient_Region_PineForest			\martíworkunit\Ambient_Region_PineForest	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	207908541	Time_Of_Day			\Default Work Unit\Time_Of_Day	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	545259665	BAS_amb_forest_day_background_loop_01	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_amb_forest_day_background_loop_01_D79FB2B7.wem		\Actor-Mixer Hierarchy\MartíWorkUnit\Ambience\BAS_amb_forest_day_background_loop_01		27990080
+	1026250961	amb_forest_night_background_loop_02	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\amb_forest_night_background_loop_02_D79FB2B7.wem		\Actor-Mixer Hierarchy\MartíWorkUnit\Ambience\amb_forest_night_background_loop_02		4343864
+

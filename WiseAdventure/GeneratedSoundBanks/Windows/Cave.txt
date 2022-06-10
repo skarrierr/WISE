@@ -1,6 +1,8 @@
 Event	ID	Name			Wwise Object Path	Notes
 	448719855	Destruction_Crystal_Destroy			\Default Work Unit\Destruction_Crystal_Destroy	
+	1331382810	Ambient_Region_Cave			\martíworkunit\Ambient_Region_Cave	
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	127928554	BAS_amb_cave_background_LP	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_amb_cave_background_LP_10C4C929.wem		\Actor-Mixer Hierarchy\MartíWorkUnit\Ambience\BAS_amb_cave_background_LP		14786860
 	418996869	BAS_Crystals_Destroy	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\Destruction\BAS_Crystals_Destroy_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Destruction\BAS_Crystals_Destroy		191776
 

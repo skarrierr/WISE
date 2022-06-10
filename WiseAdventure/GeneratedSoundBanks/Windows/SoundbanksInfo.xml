@@ -665,11 +665,19 @@
 				</SwitchGroup>
 			</SwitchGroups>
 		</SoundBank>
-		<SoundBank Id="608898761" Language="SFX" Hash="2500285012">
+		<SoundBank Id="608898761" Language="SFX" Hash="1735623423">
 			<ObjectPath>\SoundBanks\Default Work Unit\Dungeon</ObjectPath>
 			<ShortName>Dungeon</ShortName>
 			<Path>Dungeon.bnk</Path>
 			<IncludedEvents>
+				<Event Id="4077685701" Name="Ambient_Region_Dungeon" ObjectPath="\Events\martíworkunit\Ambient_Region_Dungeon">
+					<IncludedMemoryFiles>
+						<File Id="1059796831" Language="SFX">
+							<ShortName>BAS_amb_dungeon_day_background_loop_01.wav</ShortName>
+							<Path>SFX\BAS_amb_dungeon_day_background_loop_01_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
 				<Event Id="1999886838" Name="Destruction_Rock_Destroy" ObjectPath="\Events\Default Work Unit\Destruction_Rock_Destroy">
 					<IncludedMemoryFiles>
 						<File Id="73394521" Language="SFX">
@@ -680,21 +688,54 @@
 				</Event>
 			</IncludedEvents>
 		</SoundBank>
-		<SoundBank Id="1355168291" Language="SFX" Hash="2145985093">
+		<SoundBank Id="1355168291" Language="SFX" Hash="234509366">
 			<ObjectPath>Init</ObjectPath>
 			<ShortName>Init</ShortName>
 			<Path>Init.bnk</Path>
+			<GameParameters>
+				<GameParameter Id="1333239961" Name="MenuSlider_Master_Volume" ObjectPath="\Game Parameters\Default Work Unit\MenuSlider_Master_Volume"/>
+				<GameParameter Id="2642438544" Name="MenuSlider_Music_Volume" ObjectPath="\Game Parameters\Default Work Unit\MenuSlider_Music_Volume"/>
+			</GameParameters>
 		</SoundBank>
-		<SoundBank Id="1421251628" Language="SFX" Hash="80661246">
+		<SoundBank Id="1421251628" Language="SFX" Hash="3567457363">
 			<ObjectPath>\SoundBanks\Default Work Unit\Woodlands</ObjectPath>
 			<ShortName>Woodlands</ShortName>
 			<Path>Woodlands.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1049266392" Name="Ambient_Region_Woodlands" ObjectPath="\Events\martíworkunit\Ambient_Region_Woodlands">
+					<IncludedMemoryFiles>
+						<File Id="545259665" Language="SFX">
+							<ShortName>BAS_amb_forest_day_background_loop_01.wav</ShortName>
+							<Path>SFX\BAS_amb_forest_day_background_loop_01_D79FB2B7.wem</Path>
+						</File>
+						<File Id="1026250961" Language="SFX">
+							<ShortName>amb_forest_night_background_loop_02.wav</ShortName>
+							<Path>SFX\amb_forest_night_background_loop_02_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+			<GameParameters>
+				<GameParameter Id="207908541" Name="Time_Of_Day" ObjectPath="\Game Parameters\Default Work Unit\Time_Of_Day"/>
+			</GameParameters>
 		</SoundBank>
-		<SoundBank Id="1850388778" Language="SFX" Hash="3735693264">
+		<SoundBank Id="1850388778" Language="SFX" Hash="2874744122">
 			<ObjectPath>\SoundBanks\Default Work Unit\Desert</ObjectPath>
 			<ShortName>Desert</ShortName>
 			<Path>Desert.bnk</Path>
 			<IncludedEvents>
+				<Event Id="3408705206" Name="Ambient_Region_Desert" ObjectPath="\Events\martíworkunit\Ambient_Region_Desert">
+					<IncludedMemoryFiles>
+						<File Id="897599097" Language="SFX">
+							<ShortName>BAS_amb_desert_day_background_loop_01.wav</ShortName>
+							<Path>SFX\BAS_amb_desert_day_background_loop_01_10C4C929.wem</Path>
+						</File>
+						<File Id="904619032" Language="SFX">
+							<ShortName>BAS_amb_desert_night_background_loop_01.wav</ShortName>
+							<Path>SFX\BAS_amb_desert_night_background_loop_01_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
 				<Event Id="2541270269" Name="Destruction_VolcanicBoulder_Impact" ObjectPath="\Events\Default Work Unit\Destruction_VolcanicBoulder_Impact">
 					<IncludedMemoryFiles>
 						<File Id="799086651" Language="SFX">
@@ -704,13 +745,33 @@
 					</IncludedMemoryFiles>
 				</Event>
 			</IncludedEvents>
+			<GameParameters>
+				<GameParameter Id="207908541" Name="Time_Of_Day" ObjectPath="\Game Parameters\Default Work Unit\Time_Of_Day"/>
+			</GameParameters>
 		</SoundBank>
-		<SoundBank Id="2482365692" Language="SFX" Hash="2034809225">
+		<SoundBank Id="2482365692" Language="SFX" Hash="3964847917">
 			<ObjectPath>\SoundBanks\Default Work Unit\PineForest</ObjectPath>
 			<ShortName>PineForest</ShortName>
 			<Path>PineForest.bnk</Path>
+			<IncludedEvents>
+				<Event Id="808171864" Name="Ambient_Region_PineForest" ObjectPath="\Events\martíworkunit\Ambient_Region_PineForest">
+					<IncludedMemoryFiles>
+						<File Id="545259665" Language="SFX">
+							<ShortName>BAS_amb_forest_day_background_loop_01.wav</ShortName>
+							<Path>SFX\BAS_amb_forest_day_background_loop_01_D79FB2B7.wem</Path>
+						</File>
+						<File Id="1026250961" Language="SFX">
+							<ShortName>amb_forest_night_background_loop_02.wav</ShortName>
+							<Path>SFX\amb_forest_night_background_loop_02_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+			<GameParameters>
+				<GameParameter Id="207908541" Name="Time_Of_Day" ObjectPath="\Game Parameters\Default Work Unit\Time_Of_Day"/>
+			</GameParameters>
 		</SoundBank>
-		<SoundBank Id="3945572659" Language="SFX" Hash="3286453682">
+		<SoundBank Id="3945572659" Language="SFX" Hash="3731571290">
 			<ObjectPath>\SoundBanks\Default Work Unit\Village</ObjectPath>
 			<ShortName>Village</ShortName>
 			<Path>Village.bnk</Path>
@@ -732,11 +793,19 @@
 				<GameParameter Id="207908541" Name="Time_Of_Day" ObjectPath="\Game Parameters\Default Work Unit\Time_Of_Day"/>
 			</GameParameters>
 		</SoundBank>
-		<SoundBank Id="4122393694" Language="SFX" Hash="2838091768">
+		<SoundBank Id="4122393694" Language="SFX" Hash="1806534738">
 			<ObjectPath>\SoundBanks\Default Work Unit\Cave</ObjectPath>
 			<ShortName>Cave</ShortName>
 			<Path>Cave.bnk</Path>
 			<IncludedEvents>
+				<Event Id="1331382810" Name="Ambient_Region_Cave" ObjectPath="\Events\martíworkunit\Ambient_Region_Cave">
+					<IncludedMemoryFiles>
+						<File Id="127928554" Language="SFX">
+							<ShortName>BAS_amb_cave_background_LP.wav</ShortName>
+							<Path>SFX\BAS_amb_cave_background_LP_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
 				<Event Id="448719855" Name="Destruction_Crystal_Destroy" ObjectPath="\Events\Default Work Unit\Destruction_Crystal_Destroy">
 					<IncludedMemoryFiles>
 						<File Id="418996869" Language="SFX">

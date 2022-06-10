@@ -41,22 +41,28 @@
 				<SoundBank Name="Dungeon" ID="{E542AAAD-776A-490C-B80D-C1862CCD0803}">
 					<ObjectInclusionList>
 						<ObjectRef Name="Destruction_Rock_Destroy" ID="{F3A141E8-178A-4849-A3C4-6EBB00AAC5E6}" WorkUnitID="{FE0EE9F8-0FC4-49D9-9939-F3BBFD69173C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Ambient_Region_Dungeon" ID="{24EA68D8-46ED-4E46-A0B3-BBB34B44CC4F}" WorkUnitID="{0BB68BEB-D5F0-4AED-9761-1EFF9F00DA38}" Origin="Manual" Filter="7"/>
 					</ObjectInclusionList>
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>
 				</SoundBank>
 				<SoundBank Name="PineForest" ID="{D6310862-9B5B-41D6-A247-A16776F2E47E}">
-					<ObjectInclusionList/>
+					<ObjectInclusionList>
+						<ObjectRef Name="Ambient_Region_PineForest" ID="{3E98C868-C829-43BD-9CC8-9315765D727D}" WorkUnitID="{0BB68BEB-D5F0-4AED-9761-1EFF9F00DA38}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>
 				</SoundBank>
 				<SoundBank Name="Woodlands" ID="{9E5B41AA-A907-417F-91F7-6B3E8AC10E93}">
-					<ObjectInclusionList/>
+					<ObjectInclusionList>
+						<ObjectRef Name="Ambient_Region_Woodlands" ID="{876EEAF3-142F-4413-933E-D2C008E90EEA}" WorkUnitID="{0BB68BEB-D5F0-4AED-9761-1EFF9F00DA38}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>
 				</SoundBank>
 				<SoundBank Name="Cave" ID="{B25245FA-D6D2-43C8-8816-399F6F2BF496}">
 					<ObjectInclusionList>
+						<ObjectRef Name="Ambient_Region_Cave" ID="{68F975A0-FCE9-45AB-9736-DB6AF130AE6D}" WorkUnitID="{0BB68BEB-D5F0-4AED-9761-1EFF9F00DA38}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Destruction_Crystal_Destroy" ID="{E7614476-BD73-46B1-AD6C-2371433BC910}" WorkUnitID="{FE0EE9F8-0FC4-49D9-9939-F3BBFD69173C}" Origin="Manual" Filter="7"/>
 					</ObjectInclusionList>
 					<ObjectExclusionList/>
@@ -65,6 +71,7 @@
 				<SoundBank Name="Desert" ID="{F2AD9B12-7A90-477C-91F2-9B3246EB5A2E}">
 					<ObjectInclusionList>
 						<ObjectRef Name="Destruction_VolcanicBoulder_Impact" ID="{57F89E1D-A884-4DAE-8E50-61770B4139AF}" WorkUnitID="{FE0EE9F8-0FC4-49D9-9939-F3BBFD69173C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Ambient_Region_Desert" ID="{5F7018A3-8468-4EB2-83E5-802C17D4D2ED}" WorkUnitID="{0BB68BEB-D5F0-4AED-9761-1EFF9F00DA38}" Origin="Manual" Filter="7"/>
 					</ObjectInclusionList>
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>

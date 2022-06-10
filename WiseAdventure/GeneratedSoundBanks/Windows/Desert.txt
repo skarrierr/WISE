@@ -1,6 +1,12 @@
 Event	ID	Name			Wwise Object Path	Notes
 	2541270269	Destruction_VolcanicBoulder_Impact			\Default Work Unit\Destruction_VolcanicBoulder_Impact	
+	3408705206	Ambient_Region_Desert			\martíworkunit\Ambient_Region_Desert	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	207908541	Time_Of_Day			\Default Work Unit\Time_Of_Day	
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	799086651	Explosion	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\Destruction\Volcanic Boulder\Explosion_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Destruction\Volcanic Boulder\Explosion		768144
+	897599097	BAS_amb_desert_day_background_loop_01	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_amb_desert_day_background_loop_01_10C4C929.wem		\Actor-Mixer Hierarchy\MartíWorkUnit\Ambience\BAS_amb_desert_day_background_loop_01		21299264
+	904619032	BAS_amb_desert_night_background_loop_01	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_amb_desert_night_background_loop_01_10C4C929.wem		\Actor-Mixer Hierarchy\MartíWorkUnit\Ambience\BAS_amb_desert_night_background_loop_01		11931200
 
