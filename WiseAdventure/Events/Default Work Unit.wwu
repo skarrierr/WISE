@@ -227,6 +227,17 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Player_Health" ID="{977B60EA-E927-4758-A9D7-E58989F12ADC}">
+					<ChildrenList>
+						<Action Name="" ID="{274C7536-C971-4E86-AAA9-B45FBFC08CDA}" ShortID="655251670">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Heartbeat_Lub" ID="{D0735762-7E94-4315-8B0E-EE59FA16BCE3}" WorkUnitID="{8133DBBE-5DA6-4DFA-8E36-03238CAFA744}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

@@ -2,6 +2,7 @@ Event	ID	Name			Wwise Object Path	Notes
 	15662850	UI_Button_Up			\Default Work Unit\UI_Button_Up	
 	18309885	UI_Button_Enter			\Default Work Unit\UI_Button_Enter	
 	156563189	UI_Button_Down			\Default Work Unit\UI_Button_Down	
+	215992295	Player_Health			\Default Work Unit\Player_Health	
 	750089663	UI_Menu_Teleport			\Default Work Unit\UI_Menu_Teleport	
 	808893336	UI_QuestRoll_Close			\Default Work Unit\UI_QuestRoll_Close	
 	844130829	Quest_CompleteCollection			\Default Work Unit\Quest_CompleteCollection	
@@ -42,6 +43,9 @@ Switch	ID	Name	Switch Group			Notes
 	3098439042	Crate	Surface_Type			
 	4248645337	Grass	Surface_Type			
 
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	215992295	Player_Health			\Default Work Unit\Player_Health	
+
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	19902131	BAS_Button_Open	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\UI\BAS_Button_Open_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI\BAS_Button_Open		56256
 	22351558	BAS_Player_Footstep_wood_run_04	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Player_Footstep_wood_run_04_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Surface_Type\Player_Footsteps_Wood\BAS_Player_Footstep_wood_run_04		26088
@@ -65,6 +69,7 @@ In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	221069993	BAS_Impact_Axe_SurfaceType_Crate	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Impact_Axe_SurfaceType_Crate_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\WeaponImpact\Weapon_Impact\Axe_ Impact\BAS_Impact_Axe_SurfaceType_Crate		52398
 	227265548	BAS_Impact_Dagger_SurfaceType_Leaves	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Impact_Dagger_SurfaceType_Leaves_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\WeaponImpact\Weapon_Impact\Dagger_Impact\BAS_Impact_Dagger_SurfaceType_Leaves		34472
 	230350452	BAS_Button_Close	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\UI\BAS_Button_Close_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI\BAS_Button_Close		62500
+	238956876	Heartbeat_Lub	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\Heartbeat_Lub_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\PlayerHealth\Heartbeat_Lub		29544
 	271609827	BAS_Player_Footstep_sand_run_02	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Player_Footstep_sand_run_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Surface_Type\Player_Footsteps_Sand\BAS_Player_Footstep_sand_run_02		26926
 	271643535	BAS_Player_Footstep_dirt_run_06	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Player_Footstep_dirt_run_06_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Surface_Type\Player_Footsteps_Dirt\BAS_Player_Footstep_dirt_run_06		25896
 	281088119	BAS_Player_Footstep_stone_run_03	D:\GitHub\WISE\WiseAdventure\.cache\Windows\SFX\BAS_Player_Footstep_stone_run_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Surface_Type\Player_Footsteps_Stone\BAS_Player_Footstep_stone_run_03		26464

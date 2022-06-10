@@ -13,6 +13,7 @@
 						<ObjectRef Name="UI_Menu_Teleport" ID="{D96F279D-095B-4587-AA09-FFC86D924FE5}" WorkUnitID="{FE0EE9F8-0FC4-49D9-9939-F3BBFD69173C}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Player_WeaponImpact" ID="{AC4DF235-FA1C-46A3-BCBF-61B21B9142EA}" WorkUnitID="{FE0EE9F8-0FC4-49D9-9939-F3BBFD69173C}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="UI_Inventory_Open" ID="{D845FEE0-A759-46AF-9B8B-B4E5AD0D4714}" WorkUnitID="{FE0EE9F8-0FC4-49D9-9939-F3BBFD69173C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Player_Health" ID="{977B60EA-E927-4758-A9D7-E58989F12ADC}" WorkUnitID="{FE0EE9F8-0FC4-49D9-9939-F3BBFD69173C}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="UI_QuestRoll_Hide" ID="{08045D40-9EB1-47CE-818A-1D8CE103206C}" WorkUnitID="{FE0EE9F8-0FC4-49D9-9939-F3BBFD69173C}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="UI_Inventory_Close" ID="{39B46358-9762-481E-8124-068437C928DD}" WorkUnitID="{FE0EE9F8-0FC4-49D9-9939-F3BBFD69173C}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="UI_Button_Up" ID="{7A1A8A91-5CFA-487D-B14F-0B787D01A5ED}" WorkUnitID="{FE0EE9F8-0FC4-49D9-9939-F3BBFD69173C}" Origin="Manual" Filter="7"/>

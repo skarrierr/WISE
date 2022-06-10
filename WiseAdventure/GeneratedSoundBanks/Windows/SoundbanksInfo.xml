@@ -11,7 +11,7 @@
 	<StreamedFiles/>
 	<MediaFilesNotInAnyBank/>
 	<SoundBanks>
-		<SoundBank Id="133642231" Language="SFX" Hash="618241629">
+		<SoundBank Id="133642231" Language="SFX" Hash="2259320745">
 			<ObjectPath>\SoundBanks\Default Work Unit\General</ObjectPath>
 			<ShortName>General</ShortName>
 			<Path>General.bnk</Path>
@@ -276,6 +276,14 @@
 							</Media>
 						</SwitchContainer>
 					</SwitchContainers>
+				</Event>
+				<Event Id="215992295" Name="Player_Health" ObjectPath="\Events\Default Work Unit\Player_Health">
+					<IncludedMemoryFiles>
+						<File Id="238956876" Language="SFX">
+							<ShortName>Heartbeat_Lub.wav</ShortName>
+							<Path>SFX\Heartbeat_Lub_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
 				</Event>
 				<Event Id="3695342915" Name="Player_WeaponImpact" ObjectPath="\Events\Default Work Unit\Player_WeaponImpact">
 					<IncludedMemoryFiles>
@@ -628,6 +636,9 @@
 				</Event>
 				<Event Id="3699139167" Name="UI_QuestRoll_Show" ObjectPath="\Events\Default Work Unit\UI_QuestRoll_Show"/>
 			</IncludedEvents>
+			<GameParameters>
+				<GameParameter Id="215992295" Name="Player_Health" ObjectPath="\Game Parameters\Default Work Unit\Player_Health"/>
+			</GameParameters>
 			<SwitchGroups>
 				<SwitchGroup Id="3251833556" Name="Player_Weapon_Type" ObjectPath="\Switches\Default Work Unit\Player_Weapon_Type" GUID="{9038679D-2878-4007-B20D-35C2ADB70C04}">
 					<Switches>
@@ -669,7 +680,7 @@
 				</Event>
 			</IncludedEvents>
 		</SoundBank>
-		<SoundBank Id="1355168291" Language="SFX" Hash="3739864774">
+		<SoundBank Id="1355168291" Language="SFX" Hash="2145985093">
 			<ObjectPath>Init</ObjectPath>
 			<ShortName>Init</ShortName>
 			<Path>Init.bnk</Path>

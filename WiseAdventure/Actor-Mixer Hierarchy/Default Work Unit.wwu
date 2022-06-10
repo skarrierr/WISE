@@ -3142,6 +3142,34 @@
 						<Sound Name="Heartbeat_Lub" ID="{D0735762-7E94-4315-8B0E-EE59FA16BCE3}" ShortID="577979084">
 							<PropertyList>
 								<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
+								<Property Name="Pitch" Type="int32">
+									<RTPCList>
+										<RTPC Name="" ID="{B4852E17-F704-427A-AF0B-8DF8E80893F0}" ShortID="196362983">
+											<ReferenceList>
+												<Reference Name="ControlInput">
+													<ObjectRef Name="Player_Health" ID="{C507C3B8-6AE9-444D-920E-455D01EEFC67}" WorkUnitID="{03017682-DF3E-443F-BE10-29EEDFA70FED}"/>
+												</Reference>
+											</ReferenceList>
+											<Curve Name="" ID="{A6B3BAA4-1B58-4461-A18A-70275743CF6E}">
+												<PropertyList>
+													<Property Name="Flags" Type="int32" Value="65537"/>
+												</PropertyList>
+												<PointList>
+													<Point>
+														<XPos>0</XPos>
+														<YPos>-1260</YPos>
+														<Flags>5</Flags>
+													</Point>
+													<Point>
+														<XPos>100</XPos>
+														<YPos>-4440</YPos>
+														<Flags>37</Flags>
+													</Point>
+												</PointList>
+											</Curve>
+										</RTPC>
+									</RTPCList>
+								</Property>
 								<Property Name="Volume" Type="Real64">
 									<RTPCList>
 										<RTPC Name="" ID="{A4F1AD60-5B90-4633-81B3-3CFD066B56D8}" ShortID="56755116">
@@ -3157,7 +3185,7 @@
 												<PointList>
 													<Point>
 														<XPos>0</XPos>
-														<YPos>-0</YPos>
+														<YPos>0</YPos>
 														<Flags>5</Flags>
 														<SegmentShape>Exp3</SegmentShape>
 													</Point>

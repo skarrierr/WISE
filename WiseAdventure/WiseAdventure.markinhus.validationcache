@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ValidationCache Version="1" SchemaVersion="103">
 	<ValidationCacheItem File="D:\GitHub\WISE\WiseAdventure\WiseAdventure.wproj" DateLow="1653561562" DateHigh="0"/>
-	<ValidationCacheItem File="D:\GitHub\WISE\WiseAdventure\WiseAdventure.markinhus.wsettings" DateLow="1654874415" DateHigh="0"/>
+	<ValidationCacheItem File="D:\GitHub\WISE\WiseAdventure\WiseAdventure.markinhus.wsettings" DateLow="1654887402" DateHigh="0"/>
 	<ValidationCacheItem File="D:\GitHub\WISE\WiseAdventure\Virtual Acoustics\Factory Acoustic Textures.wwu" DateLow="1653561562" DateHigh="0"/>
 	<ValidationCacheItem File="D:\GitHub\WISE\WiseAdventure\Virtual Acoustics\Default Work Unit.wwu" DateLow="1653561562" DateHigh="0"/>
 	<ValidationCacheItem File="D:\GitHub\WISE\WiseAdventure\Triggers\Default Work Unit.wwu" DateLow="1653561562" DateHigh="0"/>
-	<ValidationCacheItem File="D:\GitHub\WISE\WiseAdventure\Switches\Default Work Unit.wwu" DateLow="1654883026" DateHigh="0"/>
+	<ValidationCacheItem File="D:\GitHub\WISE\WiseAdventure\Switches\Default Work Unit.wwu" DateLow="1654887091" DateHigh="0"/>
 	<ValidationCacheItem File="D:\GitHub\WISE\WiseAdventure\States\Default Work Unit.wwu" DateLow="1653561562" DateHigh="0"/>
 	<ValidationCacheItem File="D:\GitHub\WISE\WiseAdventure\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1653561562" DateHigh="0"/>
-	<ValidationCacheItem File="D:\GitHub\WISE\WiseAdventure\SoundBanks\Default Work Unit.wwu" DateLow="1654883026" DateHigh="0"/>
+	<ValidationCacheItem File="D:\GitHub\WISE\WiseAdventure\SoundBanks\Default Work Unit.wwu" DateLow="1654887400" DateHigh="0"/>
 	<ValidationCacheItem File="D:\GitHub\WISE\WiseAdventure\Queries\Factory Queries.wwu" DateLow="1653561562" DateHigh="0"/>
 	<ValidationCacheItem File="D:\GitHub\WISE\WiseAdventure\Queries\Default Work Unit.wwu" DateLow="1653561562" DateHigh="0"/>
 	<ValidationCacheItem File="D:\GitHub\WISE\WiseAdventure\Presets\Factory Spatial Audio.wwu" DateLow="1653561562" DateHigh="0"/>
@@ -21,9 +21,9 @@
 	<ValidationCacheItem File="D:\GitHub\WISE\WiseAdventure\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1653561557" DateHigh="0"/>
 	<ValidationCacheItem File="D:\GitHub\WISE\WiseAdventure\Game Parameters\Factory SoundSeed Air Game Syncs.wwu" DateLow="1653561557" DateHigh="0"/>
 	<ValidationCacheItem File="D:\GitHub\WISE\WiseAdventure\Game Parameters\Factory Motion.wwu" DateLow="1653561557" DateHigh="0"/>
-	<ValidationCacheItem File="D:\GitHub\WISE\WiseAdventure\Game Parameters\Default Work Unit.wwu" DateLow="1654873285" DateHigh="0"/>
+	<ValidationCacheItem File="D:\GitHub\WISE\WiseAdventure\Game Parameters\Default Work Unit.wwu" DateLow="1654893466" DateHigh="0"/>
 	<ValidationCacheItem File="D:\GitHub\WISE\WiseAdventure\Events\martíworkunit.wwu" DateLow="1654871988" DateHigh="0"/>
-	<ValidationCacheItem File="D:\GitHub\WISE\WiseAdventure\Events\Default Work Unit.wwu" DateLow="1654883026" DateHigh="0"/>
+	<ValidationCacheItem File="D:\GitHub\WISE\WiseAdventure\Events\Default Work Unit.wwu" DateLow="1654887107" DateHigh="0"/>
 	<ValidationCacheItem File="D:\GitHub\WISE\WiseAdventure\Effects\Factory Reflect.wwu" DateLow="1653561557" DateHigh="0"/>
 	<ValidationCacheItem File="D:\GitHub\WISE\WiseAdventure\Effects\Factory McDSP Effects.wwu" DateLow="1653561557" DateHigh="0"/>
 	<ValidationCacheItem File="D:\GitHub\WISE\WiseAdventure\Effects\Factory Mastering Suite.wwu" DateLow="1653561557" DateHigh="0"/>
@@ -44,5 +44,5 @@
 	<ValidationCacheItem File="D:\GitHub\WISE\WiseAdventure\Audio Devices\Default Work Unit.wwu" DateLow="1653561557" DateHigh="0"/>
 	<ValidationCacheItem File="D:\GitHub\WISE\WiseAdventure\Attenuations\Default Work Unit.wwu" DateLow="1653561557" DateHigh="0"/>
 	<ValidationCacheItem File="D:\GitHub\WISE\WiseAdventure\Actor-Mixer Hierarchy\MartíWorkUnit.wwu" DateLow="1654871271" DateHigh="0"/>
-	<ValidationCacheItem File="D:\GitHub\WISE\WiseAdventure\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1654883026" DateHigh="0"/>
+	<ValidationCacheItem File="D:\GitHub\WISE\WiseAdventure\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1654893466" DateHigh="0"/>
 </ValidationCache>
