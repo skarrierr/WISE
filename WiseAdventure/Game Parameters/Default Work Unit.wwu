@@ -10,6 +10,11 @@
 					</PropertyList>
 				</GameParameter>
 				<GameParameter Name="Player_MovementSpeed" ID="{10834758-7A39-4FFD-9D31-FAED1BC5B67C}"/>
+				<GameParameter Name="Player_Health" ID="{C507C3B8-6AE9-444D-920E-455D01EEFC67}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="100"/>
+					</PropertyList>
+				</GameParameter>
 			</ChildrenList>
 		</WorkUnit>
 	</GameParameters>
