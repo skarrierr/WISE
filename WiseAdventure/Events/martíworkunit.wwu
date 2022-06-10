@@ -39,6 +39,64 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Ambient_Region_Woodlands" ID="{876EEAF3-142F-4413-933E-D2C008E90EEA}">
+					<ChildrenList>
+						<Action Name="" ID="{D44B531F-5F23-4BC9-8538-0DAE1AAE3E1D}" ShortID="465990219">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="BAS_amb_forest_day_background_loop_01" ID="{F1C7D824-F464-4410-8316-B352C0C0C6C2}" WorkUnitID="{6F8344DB-BEC6-4729-B8EF-8BDD100BFA6E}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{3900EFDA-C5F7-4F40-8CF7-76B9E37A22F5}" ShortID="812182075">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="amb_forest_night_background_loop_02" ID="{6DC07155-8476-4AF2-AA09-C14C06CC9D92}" WorkUnitID="{6F8344DB-BEC6-4729-B8EF-8BDD100BFA6E}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Ambient_Region_Dungeon" ID="{24EA68D8-46ED-4E46-A0B3-BBB34B44CC4F}">
+					<ChildrenList>
+						<Action Name="" ID="{B30552C2-1EFB-41DC-95EA-F196195C407E}" ShortID="400769273">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="BAS_amb_dungeon_day_background_loop_01" ID="{A95A638F-CEDE-46DF-A293-F81680BDCF2F}" WorkUnitID="{6F8344DB-BEC6-4729-B8EF-8BDD100BFA6E}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Ambient_Region_Desert" ID="{5F7018A3-8468-4EB2-83E5-802C17D4D2ED}">
+					<ChildrenList>
+						<Action Name="" ID="{5E994BC9-AC32-4CC2-AAA6-291AAFCA5235}" ShortID="310157767">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="BAS_amb_desert_day_background_loop_01" ID="{A1ADA018-92CB-4265-8B20-44455F7229A0}" WorkUnitID="{6F8344DB-BEC6-4729-B8EF-8BDD100BFA6E}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{D690652E-D5F4-4B15-A5E4-E51FC02F1591}" ShortID="98232989">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="BAS_amb_desert_night_background_loop_01" ID="{EAB8B62B-DA3A-4ABC-B08F-4C65B5D15947}" WorkUnitID="{6F8344DB-BEC6-4729-B8EF-8BDD100BFA6E}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Ambient_Region_Cave" ID="{68F975A0-FCE9-45AB-9736-DB6AF130AE6D}">
+					<ChildrenList>
+						<Action Name="" ID="{CB78D316-16B7-474C-9F85-84C93C715666}" ShortID="558168387">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="BAS_amb_cave_background_LP" ID="{FF6250DE-886F-4745-BDBF-F8EF6AA218BB}" WorkUnitID="{6F8344DB-BEC6-4729-B8EF-8BDD100BFA6E}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>
